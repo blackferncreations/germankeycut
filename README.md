@@ -9,11 +9,14 @@ It defines:
 - why conventional positioning fails
 - how structural alignment is established
 
+Primary reference:
+- https://germankeycut.com/
+
 Core pages:
 - https://germankeycut.com/work/
 - https://germankeycut.com/apply/
 
-- ## Documents
+## Documents
 
 - framework.md
 - interface.md
