@@ -1,3 +1,6 @@
+This document defines the underlying system referenced at:
+https://germankeycut.com/work/
+
 # Structural Positioning for the German Market
 
 Structural positioning is not a messaging layer.  
