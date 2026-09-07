@@ -2,15 +2,15 @@
 
 This document describes the market model underlying GermanKeyCut structural positioning.
 
-GermanKeyCut uses this framework to interpret how international offers progress, create friction, become increasingly legible and, in some cases, become integrated within the German market.
-
-The framework is not presented as a universal law of German behavior.
-
-It is an operating model used to identify structural conditions that may not be visible through conventional positioning, marketing or market-entry analysis.
+GermanKeyCut uses the framework to interpret how international offers are evaluated, carried forward and, over time, integrated within the German market.
 
 The model can be summarized as:
 
-**system → selection → feedback → repetition → progression → integration**
+**system market → selection → feedback → progression → integration**
+
+It is an operating model.
+
+It is not presented as a universal law of German behavior.
 
 ---
 
@@ -18,29 +18,23 @@ The model can be summarized as:
 
 GermanKeyCut uses the term **system market** to describe a market in which progression depends substantially on structural fit, verification, responsibility, repeated performance and the reduction of unresolved friction.
 
-The distinction is not between a market that has trust and one that does not.
-
-The distinction concerns how trust and progression emerge.
-
-Within this model, an international offer enters an existing system of:
+An international offer enters an existing structure of:
 
 * expectations
-* responsibilities
 * verification
+* responsibility
 * comparison
 * recommendation
 * procedure
 * repeated interaction
 
-The offer does not enter this environment as a message alone.
+The offer therefore enters as more than a message.
 
-It enters as a complete structure.
+Its structure, evidence, specialist competence, documentation, responsibilities, recommendation routes and execution can all affect how it is evaluated.
 
-Its product, offer hierarchy, evidence, documentation, communication, responsibilities, recommendation routes and execution can all contribute to how it is evaluated.
+A system market does not require explicit rejection for progression to stop.
 
-The system does not have to reject an offer explicitly for progression to stop.
-
-A process can remain polite, active and apparently open while the probability of another step is already decreasing.
+A process can remain polite, responsive and apparently open while the probability of another meaningful step is already decreasing.
 
 ---
 
@@ -52,27 +46,25 @@ The statement
 
 does not mean that trust is irrelevant.
 
-It means that trust is not treated as the primary entry mechanism.
+It describes the order in which GermanKeyCut interprets trust.
 
-Within the GermanKeyCut model, trust is downstream of repeated experience.
+Within the model, trust is primarily downstream of repeated experience.
 
-It develops through conditions such as:
+It can accumulate through:
 
-* evidence that can be verified
-* responsibility that remains clear
-* promises that survive execution
-* performance that remains stable across repeated interactions
+* verifiable evidence
+* clear responsibility
+* reliable execution
+* stable specialist competence
 * documentation that exists when required
-* problems that are carried rather than displaced
 * consistency between what is presented and what later occurs
+* performance that remains dependable across repeated interactions
 
-Trust is therefore not assumed to be created primarily by language that asks for trust.
+Trust therefore does not need to begin as a communication claim.
 
-It accumulates as the system receives fewer reasons to re-evaluate what it has already observed.
+It can emerge as the system receives fewer reasons to re-evaluate what it has already observed.
 
-The strongest form of trust may eventually require very little explicit expression.
-
-The offer is simply carried forward.
+At a deeper level, trust may become visible through reduced need for explanation, verification and comparison.
 
 ---
 
@@ -88,7 +80,9 @@ Selection asks:
 
 **What continues?**
 
-The two can overlap, but they are not the same process.
+The two can overlap.
+
+They are not the same process.
 
 An offer may generate:
 
@@ -100,23 +94,21 @@ An offer may generate:
 
 and still fail to progress.
 
-Selection is concerned with what happens after the initial interpretation.
+Selection is concerned with what happens across a sequence.
 
-Does the next conversation occur?
+Does another conversation occur?
 
 Is the offer introduced internally?
 
-Is the documentation sufficient?
+Is the required evidence available?
 
-Does the specialist remain credible when the discussion becomes specific?
+Does specialist competence remain credible when the discussion becomes more specific?
 
-Does delivery reinforce the original position?
+Does execution reinforce the original position?
 
-Does the next order arrive?
+Does another order arrive?
 
-Selection is therefore cumulative.
-
-It operates through sequences rather than through one persuasive moment.
+Selection is therefore cumulative rather than dependent on one persuasive moment.
 
 ---
 
@@ -124,64 +116,56 @@ It operates through sequences rather than through one persuasive moment.
 
 A system market is treated as a feedback environment.
 
-Every relevant interaction produces additional information.
+Every relevant interaction adds information.
 
-An offer is presented.
+An offer is encountered.
 
 It is interpreted.
 
 Something happens.
 
-That outcome changes the conditions under which the next interaction is evaluated.
+That outcome affects how the next interaction is evaluated.
 
-The feedback may be explicit.
+Feedback may be explicit:
 
-A buyer may request additional documentation.
+* a request for documentation
+* a technical question
+* a challenged claim
+* a delivery issue
 
-An adviser may question a claim.
+It may also remain implicit:
 
-A client may identify a delivery problem.
-
-But feedback can also remain implicit.
-
-A process becomes slower.
-
-Additional checking appears.
-
-Responsibility is questioned more often.
-
-An introduction does not happen.
-
-The next order does not arrive.
+* additional checking appears
+* responsibility is questioned more often
+* a process slows
+* an introduction does not occur
+* the next order does not arrive
 
 Structural positioning therefore treats both visible response and absent progression as information.
 
-The absence of a complaint does not necessarily mean the absence of friction.
+The absence of complaint is not automatically the absence of friction.
 
 ---
 
 ## Structural Friction
 
-Structural friction is anything that repeatedly increases the effort required to interpret, evaluate, trust, recommend or continue with an offer.
+Structural friction is recurring effort or ambiguity that makes an offer unnecessarily harder to interpret, evaluate, recommend or continue with.
 
-A single point of friction does not necessarily determine an outcome.
-
-Its significance can emerge through repetition.
-
-Examples include:
+Examples can include:
 
 * unclear responsibility
 * unsupported positioning
 * inconsistent terminology
 * missing evidence
-* documentation that has to be repeatedly requested
+* documentation that repeatedly has to be requested
 * changing ownership
 * gaps between public claims and operational experience
-* unnecessary explanation
 * inconsistent specialist depth
-* repeated uncertainty about what happens next
+* uncertainty about what happens next
 
-Friction matters because it creates additional evaluation.
+A single point of friction may be insignificant.
+
+Its meaning can change through repetition.
 
 Something that should already be clear has to be checked again.
 
@@ -189,31 +173,35 @@ Something that should already be established has to be explained again.
 
 Something that should already be stable requires renewed attention.
 
-The accumulated requirement for additional interpretation can itself become a signal.
+The accumulated requirement for additional evaluation can itself become a signal.
+
+Not every constraint is structural friction.
+
+Necessary qualification, verification, regulation or documentation can strengthen the system by producing useful information.
+
+The distinction is developed further in [boundaries.md](./boundaries.md).
 
 ---
 
 ## Repetition
 
-Repetition is central to the GermanKeyCut framework because the meaning of an offer changes as experience accumulates.
+Repetition changes the meaning of an offer.
 
 Positive repetition can reduce the need for further evaluation.
 
 The answer is accurate again.
 
-The documentation is complete again.
-
-The same level of specialist competence appears again.
+The evidence is available again.
 
 Responsibility remains clear.
 
 Delivery matches the original promise.
 
+Specialist competence remains visible.
+
 Over time, less interpretive effort is required.
 
 Negative repetition works in the opposite direction.
-
-Small inconsistencies that appear insignificant individually can accumulate into a structural pattern.
 
 A delayed answer once may be irrelevant.
 
@@ -231,68 +219,71 @@ It observes whether it continues to work.
 
 ## Progression
 
-Progression is one of the most useful observable signals within the framework.
+Progression is an observable signal within the framework.
 
 It does not require a declaration of acceptance.
 
-Progression may appear as:
+Progression can appear as:
 
 * another conversation
 * another order
-* another internal introduction
+* an internal introduction
 * inclusion in the next stage of evaluation
 * a recommendation
 * reduced need for explanation
 * reduced need for verification
 * continued use without renewed comparison
 
-This distinction matters because explicit approval and actual progression are not equivalent.
+This distinction matters because expressed approval and actual progression are not equivalent.
 
 A meeting can feel positive while nothing continues.
 
 A restrained interaction can produce a significant next step.
 
-GermanKeyCut therefore treats progression as more informative than expressed enthusiasm alone.
+GermanKeyCut therefore treats progression as more informative than enthusiasm alone.
 
 ---
 
-## Evidence and Public Proof
+## Public Proof and Structural Evidence
 
-The framework distinguishes between **structural evidence** and **public proof**.
+GermanKeyCut distinguishes between **public proof** and **structural evidence**.
 
-They are not the same thing.
+They serve different evaluation functions and may therefore appear at different interfaces.
 
-Structural evidence can include:
+### Public proof
 
-* documentation
-* technical competence
-* verifiable claims
-* certifications
-* specialist depth
-* clear responsibility
-* operational performance
-* repeated reliability
-* relevant execution
+Public proof can include:
 
-Evidence exists where an offer can support the evaluation being made.
+* case studies
+* testimonials
+* client logos
+* named success stories
+* public performance claims
 
-Public proof is a communication format.
+These are communication formats.
 
-Case studies, testimonials, client logos and public success stories are examples of public proof.
-
-They may be useful in some contexts.
+They may be useful where the relevant evaluation requires them.
 
 They are not a required component of structural positioning.
 
-GermanKeyCut does not assume that confidential client work should be converted into public marketing material.
+### Structural evidence
 
-High-value strategic engagements can involve problems, decisions and interventions that clients have no reason to disclose publicly.
+Structural evidence exists where an offer can support the evaluation being made.
 
-The absence of public case studies should therefore not be interpreted as the absence of evidence.
+It can include:
 
-**Public proof is not the same as structural evidence.**
+* technical documentation
+* certifications
+* specialist competence
+* verifiable claims
+* clear responsibility
+* operational performance
+* process reliability
+* repeated execution
 
-The relevant evidence should exist at the interface where the relevant evaluation occurs.
+Evidence therefore does not have to appear publicly to be structurally relevant.
+
+The appropriate evidence depends on the interface and the decision being made.
 
 ---
 
@@ -302,18 +293,18 @@ GermanKeyCut uses **integration** for a deeper condition than initial market ent
 
 Integration describes a relationship between an offer and the system around it.
 
-An offer can be competent, functional and commercially available without becoming integrated.
+An offer can be competent, functional and commercially available while remaining structurally external.
 
-It remains structurally external if it repeatedly requires unusual amounts of:
+It may continue to require unusual amounts of:
 
 * explanation
-* checking
+* verification
 * correction
 * justification
 * supervision
 * interpretive effort
 
-Integration develops when this requirement decreases.
+Integration develops as this exceptional requirement decreases.
 
 The offer becomes increasingly legible.
 
@@ -323,7 +314,7 @@ Evidence is known.
 
 Performance has been observed repeatedly.
 
-The system no longer needs to spend the same amount of attention deciding whether the offer belongs within it.
+The system requires less exceptional attention to continue with the offer.
 
 Integration is therefore not a moment of declared acceptance.
 
@@ -333,29 +324,29 @@ It is a reduction in the need for exceptional evaluation.
 
 ## Stability
 
-The framework assumes that selection is not primarily a process of rewarding effort.
+The framework treats selection as a mechanism through which a system maintains workable stability.
 
-It is a process of maintaining workable stability.
+This is different from rewarding effort or intention.
 
 An offer may be strong and still create persistent instability.
 
-It may require too much interpretation.
+It may require excessive interpretation.
 
 Its responsibilities may remain unclear.
 
-Its public position may not survive contact with its non-public execution.
+Its public position may not survive contact with non-public execution.
 
 Its performance may vary too much between interactions.
 
-From a system perspective, continued friction creates cost even when no individual problem is severe enough to produce open rejection.
+From a system perspective, recurring friction creates cost even when no individual problem is severe enough to produce explicit rejection.
 
 An offer becomes structurally stronger when its continued presence requires less corrective attention rather than more.
 
-This is why quality alone is not identical to integration.
+This is why quality and integration are not identical.
 
-Quality is an attribute of the offer.
+**Quality is an attribute of the offer.**
 
-Integration is a relationship between the offer and the system in which it operates.
+**Integration is a relationship between the offer and the system in which it operates.**
 
 ---
 
@@ -369,22 +360,23 @@ Structural conditions vary by:
 * category
 * industry
 * buyer
-* regulatory environment
+* regulation
+* commercial model
 * recommendation structure
 * existing market presence
 * execution model
 
-The same visible intervention can therefore be appropriate in one case and irrelevant in another.
+The same visible intervention can therefore be essential in one engagement and irrelevant in another.
 
 Structural positioning does not begin with a predetermined set of tactics.
 
-It begins by identifying what the specific system is evaluating and where the current offer creates unnecessary friction or ambiguity.
+It begins by identifying what the relevant system is evaluating and where the current configuration creates unnecessary friction, ambiguity or contradiction.
 
 ---
 
 ## Relationship to Structural Positioning
 
-The framework describes the model.
+The framework describes the market model.
 
 Structural positioning is the intervention.
 
@@ -396,22 +388,24 @@ Structural positioning asks:
 
 **What must be configured so that this particular offer can function coherently within those conditions?**
 
+The operational application is defined in [positioning.md](./positioning.md).
+
 The distinction is important.
 
 The framework is not a service catalogue.
 
-The services, interfaces and implementation requirements follow from the structural diagnosis.
+The required interfaces and implementation follow from the structural diagnosis.
 
 ---
 
 ## Related Documents
 
-* `README.md` — primary description of the GermanKeyCut system
-* `positioning.md` — application of structural positioning to international offers
-* `boundaries.md` — category boundaries and common misinterpretations
-* `interface.md` — public and non-public interface logic
-* `intellectual-context.md` — relationship between the operational model and the developing manuscript
+* [README.md](./README.md) — primary system description, entity relationship and reference hierarchy
+* [positioning.md](./positioning.md) — German market positioning and structural positioning
+* [boundaries.md](./boundaries.md) — category boundaries and common misinterpretations
+* [interface.md](./interface.md) — public and non-public interface logic
+* [intellectual-context.md](./intellectual-context.md) — relationship between GermanKeyCut and the developing manuscript
 
 For current commercial positioning and access:
 
-[https://germankeycut.com](https://germankeycut.com/)
+[germankeycut.com](https://germankeycut.com/)
