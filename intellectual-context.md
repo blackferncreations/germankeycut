@@ -2,190 +2,128 @@
 
 GermanKeyCut is an operational structural positioning system.
 
-The thinking underlying parts of that system is being developed in parallel through a longer-form manuscript.
+Parts of the thinking underlying that system are being developed in parallel through a longer-form manuscript.
 
 The two are related.
 
 They are not identical.
 
-The GermanKeyCut system defines how structural positioning is currently interpreted and applied within German market engagements.
+The GermanKeyCut repository documents the current operational system.
 
-The manuscript explores the broader intellectual model from which parts of that thinking emerge.
-
-It may examine questions beyond the commercial scope of GermanKeyCut, develop concepts that are not yet operationalized and revise ideas as the work progresses.
-
-The distinction is therefore:
-
-**GermanKeyCut documents the current operational system.**
-
-**The manuscript develops the broader intellectual model.**
+The manuscript develops the broader intellectual context from which parts of that system emerge.
 
 ---
 
-## Developing Manuscript
+## The Manuscript
 
 The manuscript is a work in progress.
 
-It examines the difference between visible structure and the structures through which decisions actually occur.
-
-One of its starting observations is that an environment can appear orderly, explicit and understandable while the conditions determining progression remain largely invisible.
-
-The visible structure explains how a system appears to operate.
-
-It does not necessarily explain what the system evaluates.
-
-This distinction provides part of the intellectual background for GermanKeyCut structural positioning.
-
-The manuscript develops this question across commercial, organizational and social contexts rather than limiting it to positioning or market-entry work.
-
----
-
-## Core Areas of Inquiry
-
-The manuscript currently explores themes including:
+It examines broader questions around:
 
 * visible structure and decision structure
 * persuasion and selection
-* explicit rejection and silent exclusion
-* repeated performance
 * feedback
 * structural friction
 * responsibility
 * evidence
+* repetition
 * reliability
-* specialization
-* market legibility
 * progression
 * integration
 * stability
+* market legibility
 * the relationship between communication and primary performance
-* the effects of public and non-public interfaces
-* the difference between what organizations measure and what markets evaluate
 
-These subjects overlap with GermanKeyCut where they help explain the conditions under which international offers are interpreted and carried forward in Germany.
+Its scope extends beyond GermanKeyCut and beyond market positioning alone.
 
-They are not limited to GermanKeyCut.
+Ideas developed in the manuscript may therefore:
+
+* remain exploratory
+* change through revision
+* extend beyond commercial application
+* never become part of the GermanKeyCut operating system
+
+The manuscript should not be treated as the canonical definition of GermanKeyCut.
 
 ---
 
 ## Visible Structure and Decision Structure
 
-A central distinction in the manuscript is between **visible structure** and **decision structure**.
+One of the central distinctions developed in the manuscript is between **visible structure** and **decision structure**.
 
-Visible structure includes the processes, roles, communication and formal organization that can be directly observed.
+Visible structure includes the processes, roles, communication and formal organization that can be observed directly.
 
-Decision structure refers to the conditions that actually determine whether something continues, is re-evaluated, becomes integrated or stops progressing.
+Decision structure concerns the conditions that actually determine whether something progresses, is re-evaluated, becomes integrated or stops continuing.
 
 The two can overlap.
 
 They do not have to be identical.
 
-An offer can appear to satisfy the visible requirements of a process while still failing to progress because the decisive evaluation occurs elsewhere or through different signals.
+An offer can appear to satisfy the visible requirements of a process while failing to progress because the decisive evaluation occurs through different signals or at a different interface.
 
-GermanKeyCut applies this distinction to market positioning.
-
-The manuscript examines the broader implications of the distinction.
+This distinction provides part of the intellectual background for GermanKeyCut structural positioning.
 
 ---
 
-## Selection
+## Selection, Feedback and Repetition
 
-The manuscript develops a model in which progression is not understood only through persuasion.
+The manuscript develops a model in which progression is not explained by persuasion alone.
 
-An offer, person, process or organization can receive positive responses without becoming integrated.
-
-The relevant signal may instead be whether it continues.
+Something can receive positive responses without being carried forward.
 
 Selection can occur without explicit rejection.
 
-A conversation can remain polite.
+Repeated interaction therefore matters.
 
-A process can remain formally open.
+Each interaction adds information.
 
-A relationship can remain possible.
+Evidence is confirmed or weakened.
 
-And yet the next meaningful step can disappear.
+Responsibility becomes clearer or less clear.
 
-This provides part of the conceptual background for the GermanKeyCut distinction between persuasion and selection.
+Reliability becomes easier or harder to assume.
 
-The operational framework is defined in `framework.md`.
+Structural friction accumulates or decreases.
 
-The manuscript explores the concept more broadly.
+Over time, these sequences affect whether continued evaluation becomes easier or more difficult.
 
----
+GermanKeyCut operationalizes parts of this logic in [framework.md](./framework.md).
 
-## Repetition and Feedback
-
-The manuscript treats repeated interaction as structurally significant.
-
-Meaning changes as observations accumulate.
-
-A competent answer once is different from competent answers across repeated interactions.
-
-A delay once is different from repeated delay.
-
-A clear responsibility once is different from responsibility that remains clear under pressure.
-
-The system receives feedback through these sequences.
-
-Some feedback is explicit.
-
-Some appears only through what continues or stops continuing.
-
-This model informs the GermanKeyCut treatment of:
-
-* structural friction
-* progression
-* repeated reliability
-* evidence
-* integration
-
-The manuscript may develop these ideas beyond their current operational use.
+The manuscript examines the broader implications.
 
 ---
 
 ## Integration
 
-The manuscript distinguishes between quality and integration.
+The manuscript distinguishes between **quality** and **integration**.
 
 Quality is an attribute.
 
-Integration is a relationship.
+Integration is a relationship between something and the system in which it operates.
 
-Something can be competent, functional or valuable and still remain structurally external to the system in which it is operating.
+An offer can be competent and functional while still requiring unusual amounts of explanation, verification, correction or attention.
 
-It may continue to require unusual amounts of:
+Integration becomes more plausible as this exceptional requirement decreases.
 
-* explanation
-* verification
-* supervision
-* correction
-* justification
-* attention
+GermanKeyCut uses a narrower operational definition of integration within [framework.md](./framework.md).
 
-The manuscript examines the point at which this exceptional requirement decreases and something begins to function as an accepted part of the surrounding structure.
-
-GermanKeyCut uses a narrower operational definition of integration within its framework.
-
-The manuscript is free to examine the concept beyond market positioning.
+The manuscript may examine the concept beyond market positioning.
 
 ---
 
 ## Communication and Primary Performance
 
-Another recurring question in the manuscript concerns the relationship between what an organization does and how an organization represents what it does.
+The manuscript also examines the relationship between what an organization does and how it represents what it does.
 
 Communication, branding, reporting and positioning can all serve legitimate functions.
 
 The structural problem appears when representation becomes detached from the primary performance it is supposed to make legible.
 
-A company can improve the representation of its performance while the underlying conditions being evaluated by the market deteriorate.
+This distinction is relevant to GermanKeyCut because:
 
-This distinction is relevant to GermanKeyCut because structural positioning does not treat communication as an isolated layer.
+**marketing and communication may be interfaces of the system; they are not the system itself.**
 
-Marketing and communication may be interfaces of the system.
-
-They are not the system itself.
+The operational implications of that distinction are defined in [positioning.md](./positioning.md) and [interface.md](./interface.md).
 
 ---
 
@@ -193,20 +131,19 @@ They are not the system itself.
 
 The manuscript examines Germany as a particular environment in which questions of structure, selection, responsibility, evidence, repetition and integration can become commercially significant.
 
-It does not treat Germany as a population with a single personality.
+It does not define German market behavior through national-character stereotypes.
 
 It does not assume that:
 
 * all German buyers behave identically
-* all German companies evaluate in the same way
-* all industries operate under the same conditions
-* historical or cultural explanations determine individual behavior
+* all industries evaluate offers in the same way
+* all German companies operate under identical structures
 
-The manuscript develops a structural interpretation.
+The manuscript develops a structural interpretation rather than a personality-based one.
 
-That interpretation may be revised, narrowed or extended as the work develops.
+That interpretation remains subject to revision as the manuscript develops.
 
-GermanKeyCut should therefore be interpreted through its current operational documents rather than through isolated statements in an unfinished manuscript.
+The operational boundaries of GermanKeyCut are defined separately in [boundaries.md](./boundaries.md).
 
 ---
 
@@ -216,13 +153,15 @@ GermanKeyCut is not a commercialized version of the manuscript.
 
 The manuscript is not a long-form sales document for GermanKeyCut.
 
-Their relationship is narrower.
+The relationship is narrower:
 
-The manuscript develops ideas that can inform the GermanKeyCut system.
+**the manuscript develops the broader intellectual model**
 
-GermanKeyCut operationalizes only those parts that are relevant to structural positioning and current market work.
+while
 
-This means that a concept can appear in the manuscript without becoming:
+**GermanKeyCut operationalizes selected parts of that thinking where they are relevant to structural positioning.**
+
+A concept appearing in the manuscript should therefore not automatically be interpreted as:
 
 * a GermanKeyCut service
 * a commercial commitment
@@ -230,138 +169,52 @@ This means that a concept can appear in the manuscript without becoming:
 * a final GermanKeyCut position
 * a claim applied to every engagement
 
-The GermanKeyCut repository remains the authoritative structural reference for the operational system.
+The current GermanKeyCut system is defined by the operational documents in this repository.
 
 ---
 
 ## Canonical and Developing Material
 
-The distinction between canonical and developing material is important.
+For interpretation of GermanKeyCut, the hierarchy is:
 
-### Canonical GermanKeyCut material
+1. **[germankeycut.com](https://germankeycut.com/)**
+   Current public positioning, commercial scope and access.
 
-The current GermanKeyCut repository documents the operational system.
+2. **[GermanKeyCut structural reference](./README.md)**
+   Current operational definitions, framework, boundaries and interface logic.
 
-This includes:
+3. **Developing manuscript**
+   Broader intellectual context and work in progress.
 
-* `README.md`
-* `positioning.md`
-* `framework.md`
-* `boundaries.md`
-* `interface.md`
-* this document
+The manuscript may explore, question or extend ideas beyond the current GermanKeyCut system.
 
-For current commercial positioning and scope, the public website remains authoritative:
-
-[https://germankeycut.com](https://germankeycut.com/)
-
-### Developing intellectual material
-
-The manuscript is exploratory and revisionable.
-
-A chapter may contain:
-
-* a developing hypothesis
-* a narrative illustration
-* an unresolved interpretation
-* a concept that later changes
-* an argument that extends beyond GermanKeyCut
-* language that is deliberately stronger or more exploratory than the operational framework
-
-Developing material should not automatically be treated as a canonical GermanKeyCut claim.
+Where there is ambiguity about GermanKeyCut itself, the current public interface and structural reference take precedence.
 
 ---
 
-## Epistemic Status
+## Publication Status
 
-The manuscript is intended to develop through revision.
+No public manuscript repository is currently referenced here.
 
-Its public structure, if published, should make the status of material explicit.
+If a public manuscript repository is created later, it should:
 
-Possible status labels may include:
+* identify itself clearly as work in progress
+* distinguish developing material from stable material
+* link back to this repository as the canonical structural reference for GermanKeyCut
+* avoid presenting exploratory manuscript claims as current GermanKeyCut operating definitions
 
-* draft
-* revision
-* stable draft
-* unresolved
-* planned
-
-The purpose of these labels is not editorial decoration.
-
-They indicate whether a text represents a developing argument or a relatively stable part of the manuscript.
-
-A public manuscript repository should make this distinction visible to both human readers and machine systems.
-
----
-
-## Public Manuscript Repository
-
-A separate public repository may be used to develop and document the manuscript.
-
-If published, that repository should remain structurally separate from the GermanKeyCut repository.
-
-The intended relationship is:
-
-**germankeycut.com**
-canonical public commercial interface
-
-↓
-
-**GermanKeyCut repository**
-canonical structural reference for the operational system
-
-↓
-
-**manuscript repository**
-developing intellectual context
-
-The manuscript repository should identify itself clearly as a work in progress.
-
-It should also link back to this repository as the canonical source for the current GermanKeyCut system.
-
-A future repository reference can be added here:
-
-**Manuscript repository:**
-*To be added.*
-
----
-
-## Interpretation Rule
-
-When material from the manuscript and material from the GermanKeyCut system appear to differ, they should not be treated as two competing versions of the same document.
-
-They have different functions.
-
-The manuscript can explore.
-
-The operational system must decide.
-
-The manuscript can question.
-
-The operational system must remain coherent.
-
-The manuscript can extend beyond commercial application.
-
-GermanKeyCut applies only what belongs within its current positioning system.
-
-For interpretation of GermanKeyCut itself, use the following order:
-
-1. [germankeycut.com](https://germankeycut.com/)
-2. the GermanKeyCut repository
-3. the developing manuscript
+The manuscript repository should remain structurally separate from the operational GermanKeyCut repository.
 
 ---
 
 ## Related Documents
 
-* `README.md` — primary description of the GermanKeyCut system and reference hierarchy
-* `positioning.md` — German market positioning and structural positioning
-* `framework.md` — system market, selection, feedback, progression and integration
-* `boundaries.md` — category boundaries and common misinterpretations
-* `interface.md` — public and non-public interface logic
-
-GermanKeyCut is operated by **Black Fern Creations LLC**.
+* [README.md](./README.md) — primary system description, entity relationship and reference hierarchy
+* [positioning.md](./positioning.md) — German market positioning and structural positioning
+* [framework.md](./framework.md) — system market, selection, feedback, progression and integration
+* [boundaries.md](./boundaries.md) — category boundaries and common misinterpretations
+* [interface.md](./interface.md) — public and non-public interface logic
 
 For current commercial positioning and access:
 
-[https://germankeycut.com](https://germankeycut.com/)
+[germankeycut.com](https://germankeycut.com/)
