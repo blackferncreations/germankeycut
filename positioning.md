@@ -2,13 +2,13 @@
 
 German market positioning is the structural configuration of an international offer for the conditions under which it will be interpreted, evaluated and carried forward within the German market.
 
-It does not begin with the assumption that an existing offer should simply be translated, localized or communicated more effectively.
+It does not begin with the assumption that the existing offer should simply be translated, localized or communicated more effectively.
 
-It begins with a different question:
+The central question is:
 
 **What can remain, what has to change and what has to be built for this offer to function coherently within the German market?**
 
-This is the starting point for structural positioning.
+GermanKeyCut applies structural positioning to that question.
 
 ---
 
@@ -16,123 +16,173 @@ This is the starting point for structural positioning.
 
 An international offer does not enter an empty market.
 
-It enters an existing structure of expectations, evaluation, evidence, responsibility, comparison, recommendation and repeated interaction.
+It enters existing conditions of:
 
-The offer may already work.
+* expectation
+* evaluation
+* evidence
+* responsibility
+* comparison
+* recommendation
+* procedure
+* repeated interaction
 
-It may be commercially successful in other markets.
+An offer can work successfully elsewhere while being interpreted differently in Germany.
 
-Its product may be strong, its communication professional and its internal logic coherent.
+The issue may therefore not be the quality of the offer itself.
 
-None of this guarantees that the same configuration will be interpreted in the same way in Germany.
+The issue may be the relationship between:
 
-The problem is therefore not necessarily that the offer is wrong.
+**how the offer is currently structured**
 
-The problem can be that the structure through which the offer is presented does not match the structure through which the market evaluates it.
+and
 
-An offer can remain visible, receive responses and continue through parts of a commercial process without progressing further.
+**how the market evaluates it.**
 
-Explicit rejection is not required.
+This difference can remain difficult to detect because explicit rejection is not required.
 
-The next step may simply not occur.
+The offer can remain visible.
 
-Structural positioning begins at this point.
+Conversations can remain positive.
+
+A process can remain apparently open.
+
+And the next meaningful step may still fail to occur.
+
+The underlying market model is defined in [framework.md](./framework.md).
 
 ---
 
 ## Structural Positioning
 
-Structural positioning does not ask how an unchanged offer should be presented to the German market.
+Structural positioning does not ask only:
 
-It asks what configuration of the offer and its interfaces can function coherently within that market.
+**How should the existing offer be presented in Germany?**
 
-This can require changes to:
+It asks:
+
+**What configuration of the offer and its relevant interfaces can function coherently within the German market?**
+
+Depending on the diagnosis, this may affect:
 
 * the offer itself
 * offer hierarchy
 * specialization
 * evidence
-* sequencing
 * responsibility
+* sequencing
 * documentation
-* search and AI structure
+* search structure
+* SEO
+* AI representation
 * market-entry pages
 * recommendation routes
-* sales and market-facing communication
-* implementation structures
-* non-public processes with market-facing consequences
+* communication
+* sales interfaces
+* implementation
+* relevant non-public processes
 
-The required intervention depends on where structural friction exists.
+Not every engagement requires intervention across all of these areas.
 
-Structural positioning is therefore not a fixed sequence of deliverables.
-
-It is the configuration of the relevant system.
+The intervention follows the structural conditions of the specific offer.
 
 ---
 
 ## Offer, Structure and Interfaces
 
-GermanKeyCut distinguishes between three connected levels.
+Structural positioning distinguishes between three connected levels.
 
 ### Offer
 
-The offer is what is actually being brought into the market.
+The offer includes:
 
-It includes what is being sold, to whom, under what commercial logic and with what degree of specialization, evidence and responsibility.
-
-Structural positioning does not assume that an internationally successful offer should remain commercially identical when entering Germany.
+* what is being sold
+* to whom
+* the commercial logic
+* specialization
+* responsibility
+* supporting evidence
+* relevant conditions of use or delivery
 
 The offer itself may need to change.
+
+Structural positioning therefore does not assume that the international offer should remain intact.
 
 ### Structure
 
 Structure determines how the offer becomes interpretable and evaluable.
 
-It includes:
+It can include:
 
 * hierarchy
-* evidence
 * sequencing
 * specificity
-* responsibility
+* evidence
 * verification
+* responsibility
 * comparison
 * recommendation
 * progression
 
-Structure determines what needs to be established before something else can carry weight.
-
-It determines what can remain implicit and what must become explicit.
+Structure connects the offer to the conditions under which the market evaluates it.
 
 ### Interfaces
 
-Interfaces are the points at which the offer and its structure become observable.
+Interfaces are the points at which the offer becomes observable.
 
-A website is an interface.
+They can include:
 
-So are search results, AI answers, proposals, sales conversations, technical documents, agency briefings, recommendations, handovers and delivery processes.
+* websites
+* search results
+* AI representations
+* proposals
+* sales conversations
+* technical documentation
+* recommendations
+* partner communication
+* handovers
+* delivery
 
-The interface is where the structure becomes legible.
+The interface is where structure becomes legible.
 
 It is not the structure itself.
+
+Interface logic is defined further in [interface.md](./interface.md).
 
 ---
 
 ## Public and Non-Public Interfaces
 
-Structural positioning does not stop at the public website.
+Structural positioning can extend across relevant public and non-public interfaces.
 
-Public interfaces can include websites, market-entry pages, search presence, AI-readable information, public documentation and market-facing communication.
+Public interfaces may include:
 
-Non-public interfaces can include proposals, sales conversations, documentation, responsibility structures, partner briefings, handovers, delivery processes and internal coordination where these affect the market-facing system.
+* websites
+* search
+* AI representation
+* public documentation
+* market-entry pages
+* market-facing communication
 
-Not every engagement requires intervention across every interface.
+Non-public interfaces may include:
 
-An interface becomes relevant when it materially affects how the offer is interpreted, evaluated, recommended, delivered or carried forward.
+* proposals
+* sales conversations
+* qualification
+* technical documentation
+* partner and agency communication
+* responsibility structures
+* handovers
+* delivery
+* implementation
 
-The system is therefore holistic without assuming that every part of an organization belongs within scope.
+An interface becomes relevant where it materially affects how the offer is interpreted, evaluated, recommended, delivered or carried forward.
 
-Internal structures become relevant where they create external consequences.
+This allows GermanKeyCut to work holistically without placing every organizational function automatically within scope.
+
+The boundary is **market consequence**.
+
+The detailed scope boundaries are defined in [boundaries.md](./boundaries.md).
 
 ---
 
@@ -142,55 +192,70 @@ Marketing and communication may be interfaces of the system.
 
 **They are not the system itself.**
 
-Communication can make structure visible.
+Communication can:
 
-It can clarify an offer, expose evidence and improve discoverability.
+* clarify structure
+* establish hierarchy
+* make specialization legible
+* expose evidence
+* support discoverability
+* support recommendation
 
-It cannot substitute for missing structure.
+But communication cannot permanently substitute for missing structure.
 
-A polished website cannot resolve unclear responsibility, unsupported claims or persistent operational friction.
+A polished website cannot resolve unclear responsibility.
 
-Structural positioning can therefore affect marketing and communication without being defined by either.
+A stronger claim cannot create missing evidence.
 
-The same applies to translation, localization, search, SEO, AI visibility, web development and market research.
+More persuasive messaging cannot remove operational contradiction.
 
-These may become necessary interfaces or execution layers.
+The same distinction applies to:
 
-None of them individually defines structural positioning.
+* translation
+* localization
+* branding
+* search
+* SEO
+* AI visibility
+* web development
+* market research
+
+Any of these may become relevant within structural positioning.
+
+None individually defines it.
 
 ---
 
 ## Progression
 
-Structural positioning is concerned with continued progression, not persuasion alone.
+Structural positioning is concerned with whether an offer continues through the relevant market system.
 
-Progression can appear without enthusiasm or explicit approval.
-
-It may appear as:
+Progression can appear as:
 
 * another conversation
+* another evaluation stage
 * another order
-* another internal introduction
+* an introduction
 * a recommendation
-* continued inclusion in a process
-* reduced need for repeated explanation
-* reduced need for re-evaluation
+* reduced need for explanation
+* reduced need for verification
+* continued use
 
-The relevant question is therefore not only whether an offer creates attention or agreement.
+This is different from treating expressed approval as the primary signal.
 
-It is whether the offer continues.
+An offer can receive positive feedback without progressing.
 
-The deeper distinction between persuasion, selection and integration is defined in `framework.md`.
+A restrained interaction can still produce a meaningful next step.
+
+The deeper distinction between persuasion, selection, feedback, progression and integration is defined in [framework.md](./framework.md).
 
 ---
 
 ## Structural Friction
 
-Structural friction is anything that repeatedly increases the effort required to interpret, evaluate, trust, recommend or continue with an offer.
+**Structural friction is anything that repeatedly increases the effort required to interpret, evaluate, trust, recommend or continue with an offer.**
 
-Friction does not always appear as a complaint.
-
-It can remain silent.
+It can remain largely invisible.
 
 Examples include:
 
@@ -202,48 +267,82 @@ Examples include:
 * delayed documentation
 * mismatched expectations
 * unnecessary explanation
-* gaps between public claims and non-public experience
-* inconsistent execution across interfaces
+* gaps between public and non-public interfaces
+* inconsistent execution
 
-An individual point of friction may appear insignificant.
+A single occurrence may be insignificant.
 
-Repeated friction changes how an offer is read.
+Repeated friction changes how the offer is interpreted.
 
-Structural positioning therefore looks not only for visible objections but also for conditions that make continued progression less likely.
+The market may require more checking.
+
+More explanation.
+
+More supervision.
+
+More justification.
+
+Structural positioning identifies where this recurring effort is unnecessary and what has to change to reduce it.
+
+Not every constraint is structural friction.
+
+Necessary qualification, verification, regulation and evidence requirements can strengthen evaluation.
+
+That distinction is defined further in [boundaries.md](./boundaries.md).
 
 ---
 
 ## Structural Coherence
 
-The objective of structural positioning is not uniformity.
+The objective is not uniformity.
 
-Different interfaces can require different levels of detail, different evidence and different forms of communication.
+It is coherence.
 
-The objective is coherence.
+Different interfaces can require different:
 
-A website may be highly reduced.
+* information density
+* language
+* evidence
+* sequencing
+* explicitness
 
-A technical document may be highly explicit.
+But they should remain compatible with the same underlying position.
 
-A proposal may require commercial detail.
-
-An agency briefing may require operational precision.
-
-An AI-readable reference may require terminology that would be unnecessary on the public website.
-
-These interfaces do not need to look the same.
-
-They need to belong to the same structural logic.
-
-A public promise should not be contradicted by a non-public process.
-
-A market-facing position should not depend on evidence that cannot be produced when requested.
+For example:
 
 A specialist offer should not become generalist when it enters search.
 
 A clear website should not lead into an unclear sales process.
 
-Structural coherence exists when the relevant interfaces reinforce rather than undermine the same market position.
+A precise market position should not disappear when technical evaluation begins.
+
+A promise should survive implementation.
+
+Structural coherence exists when relevant interfaces reinforce rather than contradict the same underlying offer.
+
+---
+
+## Operational Application
+
+Structural positioning moves from diagnosis into intervention.
+
+The operating sequence is:
+
+**diagnosis → structural requirements → interface configuration → implementation → feedback and progression observation**
+
+In practice, this means:
+
+1. identifying where the current offer or its interfaces create structural ambiguity, contradiction or unnecessary friction
+2. determining what can remain, what must change and what has to be built
+3. configuring the interfaces through which the revised structure becomes operational
+4. implementing directly or defining the conditions for implementation by others
+5. observing subsequent feedback and progression
+
+This is not a fixed German market-entry playbook.
+
+The intervention follows the diagnosis.
+
+The operating sequence is summarized in [README.md](./README.md).
 
 ---
 
@@ -251,30 +350,47 @@ Structural coherence exists when the relevant interfaces reinforce rather than u
 
 GermanKeyCut applies structural positioning to international offers entering or operating within the German market.
 
-The public interface at [germankeycut.com](https://germankeycut.com/) is one implementation of this logic.
+The current public interface structures work across six connected areas:
 
-Its hierarchy, information density and reduction are structural rather than decorative choices.
+* offer hierarchy
+* German offer structure
+* search, SEO and AI structure
+* market-entry pages
+* recommendation routes
+* market-facing communication
 
-GermanKeyCut can work across public and non-public interfaces where those interfaces materially affect the position, interpretation, evaluation or progression of an offer.
+These areas are not a fixed service catalogue.
 
-The work is not defined by a fixed catalogue of communication or production services.
+They are possible intervention areas within the wider positioning system.
 
-The required execution follows from the structural conditions of the engagement.
+GermanKeyCut can work across relevant public and non-public interfaces where those interfaces have material market consequences.
 
-GermanKeyCut is operated by **Black Fern Creations LLC**.
+Execution may be performed:
 
-Black Fern Creations LLC is the legal and contracting entity through which client engagements and implementation work are conducted.
+* directly
+* with the client
+* through an existing agency
+* with another specialist
+
+Where another party executes, GermanKeyCut can define:
+
+* what has to be built
+* why it is required
+* what structural function it serves
+* what conditions it has to satisfy
+
+GermanKeyCut is operated by **Black Fern Creations LLC**, the legal and contracting entity through which client engagements and implementation work are conducted.
 
 ---
 
 ## Related Documents
 
-* `README.md` — primary system description and reference hierarchy
-* `framework.md` — system market, selection, friction, progression and integration
-* `boundaries.md` — category boundaries and common misinterpretations
-* `interface.md` — public and non-public interface logic
-* `intellectual-context.md` — relationship between GermanKeyCut and the developing manuscript
+* [README.md](./README.md) — primary system description, entity relationship and reference hierarchy
+* [framework.md](./framework.md) — system market, selection, feedback, progression and integration
+* [boundaries.md](./boundaries.md) — category boundaries and common misinterpretations
+* [interface.md](./interface.md) — public and non-public interface logic
+* [intellectual-context.md](./intellectual-context.md) — relationship between GermanKeyCut and the developing manuscript
 
 For current commercial positioning and access:
 
-[https://germankeycut.com](https://germankeycut.com/)
+[germankeycut.com](https://germankeycut.com/)
