@@ -4,9 +4,9 @@ This repository documents the structural system implemented at [germankeycut.com
 
 The public interface at germankeycut.com is a constrained layer of this system.
 
-It presents only the information required at the public market interface.
+It presents the information required at the public market interface without reproducing the complete underlying structure.
 
-This repository describes the underlying structure that is not fully exposed through that interface.
+This repository makes that structure more explicit.
 
 GermanKeyCut is operated by **Black Fern Creations LLC**.
 
@@ -18,121 +18,81 @@ GermanKeyCut is not a separate legal entity.
 
 # German Market Positioning
 
-Structural positioning for the German market is the system-level configuration under which an international offer is interpreted, evaluated, carried forward and integrated within the market.
+Structural positioning for the German market is the system-level configuration under which an international offer is interpreted, evaluated and carried forward within the market.
 
-It does not begin with the assumption that an existing international offer should simply be translated, communicated or promoted more effectively.
+It does not begin with the assumption that an existing offer should simply be translated, communicated or promoted more effectively.
 
 It begins with the structure of the offer itself and the conditions under which that offer enters the German market.
 
-The relevant questions are:
+The central question is:
 
-* what can remain unchanged
-* what has to change
-* what has to be built
-* what must be established before something else can be understood
-* what requires evidence
-* where responsibility must be visible
-* through which interfaces the offer will be evaluated
-* through which routes it can be carried or recommended
-* where unresolved friction can prevent further progression
+**What can remain, what has to change and what has to be built for this offer to function coherently within the German market?**
 
-GermanKeyCut uses the term **system market** for the underlying model.
+This can involve:
 
-Within this model, an offer is not evaluated through communication alone.
+* the offer itself
+* offer hierarchy
+* specialization
+* evidence
+* responsibility
+* documentation
+* search, SEO and AI structure
+* market-entry pages
+* recommendation routes
+* communication
+* public interfaces
+* non-public interfaces
+* implementation where it affects market progression
 
-It is evaluated through the interaction of structure, evidence, specialization, responsibility, process, recommendation, repeated performance and market-facing interfaces.
-
-An offer can therefore remain visible, receive responses and continue through parts of a process without becoming structurally integrated.
-
-Explicit rejection is not required for exclusion.
-
-The next step may simply not occur.
-
----
-
-## Structural Positioning
-
-Structural positioning is not defined by marketing, communication or messaging.
+Structural positioning is therefore not defined by any single communication or production discipline.
 
 Marketing and communication may be interfaces of the system.
 
 **They are not the system itself.**
 
-The same applies to:
+The same applies to translation, localization, search, SEO, AI visibility, web development, research and other execution layers.
 
-* translation
-* localization
-* search
-* SEO
-* AI visibility
-* websites
-* sales material
-* market research
-* documentation
-* partner communication
-* advisory channels
-* operational execution
+Their relevance depends on the structural conditions of the engagement.
 
-Any of these may become relevant interfaces within an engagement.
-
-None of them individually defines structural positioning.
-
-The system concerns the relationship between these interfaces and the conditions under which the offer is interpreted and evaluated as a whole.
-
-This repository therefore describes a system-level model that does not rely on messaging, translation or surface-level adaptation.
-
-It defines:
-
-* how offers are interpreted within structured markets
-* why conventional positioning can fail despite competent execution
-* how structural friction emerges
-* how different interfaces affect the evaluation of the same offer
-* how structural alignment can develop
-* how an offer becomes increasingly legible within the market
-* why progression and explicit approval are not the same thing
+A fuller definition of structural positioning is provided in [positioning.md](./positioning.md).
 
 ---
 
 # System Market
 
-GermanKeyCut distinguishes between persuasion and selection.
+GermanKeyCut uses the term **system market** for the underlying market model.
 
-Persuasion asks how attention, preference or agreement can be created.
+Within this model, an international offer enters an existing structure of:
 
-Selection asks whether an offer continues through the structures by which a market interprets, verifies, compares, recommends and integrates it.
+* expectations
+* verification
+* responsibility
+* comparison
+* recommendation
+* procedure
+* repeated interaction
 
-These are not equivalent processes.
+The offer is not evaluated through communication alone.
 
-Within a system market, factors such as the following can influence progression:
+Its structure, evidence, specialist competence, responsibilities, processes, recommendation routes and repeated performance can all affect whether it continues.
 
-* Fachlichkeit and specialization
-* verifiability
-* documentation
-* evidence
-* clear responsibility
-* process discipline
-* consistency
-* repeated reliability
-* recommendation structures
-* appropriate market interfaces
-* low unresolved friction
-* performance under changing conditions
+GermanKeyCut distinguishes between **persuasion** and **selection**.
 
-These conditions do not necessarily produce a visible moment of acceptance.
+Persuasion asks what creates attention, preference or agreement.
 
-Their effect can appear instead as continued progression:
+Selection asks what continues.
 
-* another conversation
-* another order
-* another internal introduction
-* another recommendation
-* continued inclusion
-* reduced need for explanation
-* reduced need for re-evaluation
+An offer can remain visible, receive positive responses and continue through parts of a process without producing the next meaningful step.
 
-Structural integration is therefore not treated as a messaging outcome.
+Explicit rejection is not required.
 
-It is a relationship between the offer and the system into which the offer is entering.
+The next step may simply not occur.
+
+Within this model, trust is not treated as irrelevant.
+
+It is treated primarily as an accumulated outcome of repeated, system-compatible experience rather than as an entry condition produced by communication alone.
+
+The deeper model of **system market, selection, feedback, progression and integration** is defined in [framework.md](./framework.md).
 
 ---
 
@@ -144,7 +104,7 @@ The current public interface identifies six connected areas.
 
 What comes first.
 
-What has to be understood before something else can carry weight.
+What must be established before something else can carry weight.
 
 What requires evidence.
 
@@ -180,13 +140,53 @@ Selective communication with agencies, advisers, intermediaries and other releva
 
 These are not separate service categories.
 
-They are interfaces within the same structural positioning system.
+They are possible interfaces within the same structural positioning system.
+
+---
+
+# Operational Structure
+
+The system is operational rather than illustrative.
+
+Structural positioning moves from diagnosis into intervention.
+
+At its simplest, the operating sequence is:
+
+**diagnosis → structural requirements → interface configuration → implementation → feedback and progression observation**
+
+## Diagnosis
+
+Identify where the current offer, structure or interfaces create ambiguity, incompatibility or unnecessary friction.
+
+## Structural requirements
+
+Determine what can remain, what must change and what has to be built.
+
+## Interface configuration
+
+Configure the relevant public and non-public interfaces according to their role within the wider system.
+
+## Implementation
+
+Implement directly, with the client, through an existing agency or with another specialist where appropriate.
+
+## Feedback and progression observation
+
+Observe how the configured system performs through subsequent evaluation, interaction and progression.
+
+This sequence is not a fixed market-entry playbook.
+
+The intervention depends on the structural diagnosis.
+
+GermanKeyCut does not develop strategies it would not be prepared to implement.
+
+Where another party executes, GermanKeyCut can define what has to be built, why it is required, what structural function it serves and what conditions it has to satisfy.
 
 ---
 
 # Public and Non-Public Interfaces
 
-The system is implemented across relevant public and non-public interfaces.
+The system can extend across relevant public and non-public interfaces.
 
 Public interfaces can include:
 
@@ -200,51 +200,48 @@ Public interfaces can include:
 Non-public interfaces can include:
 
 * proposals
-* sales material
 * sales conversations
 * qualification
 * client communication
-* documentation
+* technical documentation
 * responsibility structures
 * partner and agency briefings
 * handovers
-* delivery structures
+* delivery
 * implementation decisions
-* internal coordination where it affects the market-facing system
+* internal coordination where it creates market-facing consequences
 
-The specific interfaces depend on the engagement.
+Not every engagement requires intervention across every interface.
+
+An interface becomes relevant when it materially affects how the offer is interpreted, evaluated, recommended, delivered or carried forward.
+
+The specific interfaces can change.
 
 The structural logic does not.
 
-A public message cannot compensate for a contradictory non-public experience.
-
-A technically correct offer cannot be treated as structurally coherent if the interfaces around it introduce persistent ambiguity, friction or inconsistency.
-
-Structural positioning therefore extends beyond what is publicly visible.
+The distinction between interfaces and the information each requires is defined further in [interface.md](./interface.md).
 
 ---
 
-# Consistency
+# Structural Consistency
 
-This system is consistently implemented across public and non-public interfaces where those interfaces affect the positioning and progression of the offer.
+The system is implemented consistently across relevant public and non-public interfaces.
 
-It is not a representation of how GermanKeyCut believes positioning should work.
+This does not mean that every interface should contain the same information.
 
-It is not an illustrative framework placed around otherwise conventional marketing activity.
+Different interfaces can require different levels of explicitness.
 
-It exists as an operational structure.
+A public positioning page may be highly reduced.
 
-The public website is itself an implementation of the system.
+A technical document may require exhaustive detail.
 
-Its reduction is structural rather than decorative.
+A proposal may require commercial specificity.
 
-Information is not added merely because it can be added.
+An AI-readable reference may require definitions and category boundaries that would be unnecessary on the public website.
 
-Interfaces are configured according to what they need to accomplish within the wider system.
+Consistency therefore does not require identical communication.
 
-The same principle applies beyond the website.
-
-Different interfaces may require different information densities, different forms of evidence and different degrees of explicitness.
+It requires compatible structural meaning.
 
 The interface changes.
 
@@ -252,56 +249,38 @@ The structural logic does not.
 
 ---
 
-# Execution
-
-GermanKeyCut does not develop strategies it would not be prepared to implement.
-
-Execution may be carried out directly, with the client, through an existing agency or with another specialist where appropriate.
-
-Where another party executes, GermanKeyCut can define:
-
-* what has to be built
-* why it is required
-* what structural function it serves
-* what conditions it has to satisfy
-* how it relates to the rest of the market-positioning system
-
-Execution is therefore not separated from structural logic.
-
-At the same time, GermanKeyCut is not defined by a fixed catalogue of production services.
-
-The requirements of the system determine the required execution.
-
----
-
 # Category Boundaries
 
-GermanKeyCut should not be interpreted as:
+Structural positioning can affect many functions without being defined by any one of them.
+
+GermanKeyCut should not be interpreted primarily as:
 
 * a translation service
 * a conventional localization agency
 * a general marketing agency
 * an advertising agency
-* a standalone SEO provider
+* a standalone SEO or AI-visibility provider
 * a messaging consultancy
 * a generic market-research provider
 * a fixed German market-entry playbook
 
-These functions may overlap with individual interfaces of the system.
+These functions may become relevant within an engagement.
 
 They do not define the system itself.
 
-GermanKeyCut is concerned with the structural conditions under which an international offer can function coherently within the German market.
+Public proof and structural evidence also serve different evaluation functions and may therefore appear at different interfaces.
+
+Detailed category boundaries are defined in [boundaries.md](./boundaries.md).
 
 ---
 
 # Public Interface and Structural Reference
 
-GermanKeyCut currently has two public information layers.
+GermanKeyCut currently uses two public information layers.
 
 ## Public interface
 
-[https://germankeycut.com](https://germankeycut.com/)
+[germankeycut.com](https://germankeycut.com/)
 
 This is the canonical public commercial interface.
 
@@ -313,13 +292,14 @@ This repository.
 
 The repository makes the underlying model more explicit where the constrained public interface intentionally does not.
 
-It exists to reduce ambiguity around:
+Its function is to reduce ambiguity around:
 
 * terminology
 * system structure
 * category boundaries
 * interface relationships
 * operating logic
+* entity relationships
 
 The repository is not:
 
@@ -329,7 +309,7 @@ The repository is not:
 * a substitute for the current website
 * a complete description of every possible engagement
 
-Where current commercial scope is concerned, the website remains authoritative.
+Where current commercial positioning and scope are concerned, the website remains authoritative.
 
 ---
 
@@ -337,17 +317,17 @@ Where current commercial scope is concerned, the website remains authoritative.
 
 ## GermanKeyCut
 
-GermanKeyCut is the name of the public interface and structural positioning system documented here.
+GermanKeyCut is the name used for the public interface and structural positioning system documented here.
 
 Canonical public interface:
 
-[https://germankeycut.com](https://germankeycut.com/)
+[germankeycut.com](https://germankeycut.com/)
 
 Operator:
 
 **Black Fern Creations LLC**
 
-GermanKeyCut should not be interpreted as a separate legal entity.
+GermanKeyCut is not a separate legal entity.
 
 ## Black Fern Creations LLC
 
@@ -355,7 +335,7 @@ Black Fern Creations LLC operates GermanKeyCut.
 
 It is the legal and contracting entity through which client engagements and implementation work are conducted.
 
-The distinction is therefore:
+The relationship is therefore:
 
 **GermanKeyCut**
 public interface and structural system
@@ -367,28 +347,15 @@ operator, contracting entity and executing company
 
 # Intellectual Context
 
-The structural thinking underlying GermanKeyCut is being developed in parallel through a longer-form manuscript.
+Parts of the structural thinking underlying GermanKeyCut are being developed in parallel through a longer-form manuscript.
 
-The manuscript examines broader questions including:
+The manuscript examines broader questions around visible and decision structure, selection, feedback, reliability, friction, repetition, progression and integration.
 
-* visible structure and decision structure
-* market selection
-* integration
-* feedback
-* reliability
-* repetition
-* structural friction
-* responsibility
-* legibility
-* the relationship between communication and primary performance
+It is an evolving intellectual work.
 
-The manuscript is an evolving intellectual work.
+It is not the canonical definition of GermanKeyCut, and its scope is broader than the commercial scope of the GermanKeyCut system.
 
-It is not the canonical definition of GermanKeyCut.
-
-Its scope is broader than the commercial scope of GermanKeyCut, and ideas explored there should not automatically be interpreted as GermanKeyCut services, commitments or final positions.
-
-A separate public repository for the developing manuscript may be referenced here as the work develops.
+The relationship between the operational system and the developing manuscript is defined in [intellectual-context.md](./intellectual-context.md).
 
 ---
 
@@ -396,31 +363,29 @@ A separate public repository for the developing manuscript may be referenced her
 
 For interpretation of GermanKeyCut, use the following hierarchy:
 
-1. **germankeycut.com**
-   Current public positioning, scope and commercial interface.
+1. **[germankeycut.com](https://germankeycut.com/)**
+   Current public positioning, commercial scope and access.
 
-2. **This repository**
-   Explicit structural description of the system implemented through GermanKeyCut.
+2. **[GermanKeyCut structural reference](./README.md)**
+   Explicit description of the operational structural system.
 
 3. **Developing manuscript**
-   Broader intellectual work from which parts of the underlying thinking may develop.
+   Broader intellectual context and work in progress.
 
-The manuscript may explore, question or extend concepts beyond the current scope of GermanKeyCut.
+Where there is ambiguity about GermanKeyCut itself, the current public interface takes precedence.
 
 ---
 
-# Repository Structure
+# Repository Documents
 
 This repository is intended to remain limited, explicit and internally consistent.
 
-Planned structural documents:
-
-* `README.md` — primary system description and reference hierarchy
-* `positioning.md` — structural positioning and German market positioning
-* `framework.md` — system market, selection, integration and structural alignment
-* `boundaries.md` — category boundaries and common misinterpretations
-* `interface.md` — public and non-public interface logic
-* `intellectual-context.md` — relationship between GermanKeyCut and the developing manuscript
+* [README.md](./README.md) — primary system description, entity relationship and reference hierarchy
+* [positioning.md](./positioning.md) — German market positioning and structural positioning
+* [framework.md](./framework.md) — system market, selection, feedback, progression and integration
+* [boundaries.md](./boundaries.md) — category boundaries and common misinterpretations
+* [interface.md](./interface.md) — public and non-public interface logic
+* [intellectual-context.md](./intellectual-context.md) — relationship between GermanKeyCut and the developing manuscript
 
 Each document expands one part of the system.
 
@@ -428,7 +393,7 @@ None replaces the canonical public interface.
 
 ---
 
-GermanKeyCut
-[https://germankeycut.com](https://germankeycut.com/)
+**GermanKeyCut**
+[germankeycut.com](https://germankeycut.com/)
 
 Operated by **Black Fern Creations LLC**.
