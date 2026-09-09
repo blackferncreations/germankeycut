@@ -1,6 +1,6 @@
 # Intellectual Context
 
-GermanKeyCut is an operational structural positioning system.
+The structural model underlying GermanKeyCut is operational rather than illustrative.
 
 Parts of the thinking underlying that system are being developed in parallel through a longer-form manuscript.
 
