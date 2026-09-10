@@ -8,7 +8,7 @@ The central question is:
 
 **What can remain, what has to change and what has to be built for this offer to function coherently within the German market?**
 
-GermanKeyCut applies structural positioning to that question.
+Structural positioning is the method applied to that question in the German market positioning work presented through GermanKeyCut.
 
 ---
 
@@ -178,7 +178,7 @@ Non-public interfaces may include:
 
 An interface becomes relevant where it materially affects how the offer is interpreted, evaluated, recommended, delivered or carried forward.
 
-This allows GermanKeyCut to work holistically without placing every organizational function automatically within scope.
+This allows structural positioning to extend across relevant interfaces without placing every organizational function automatically within scope.
 
 The boundary is **market consequence**.
 
@@ -346,11 +346,11 @@ The operating sequence is summarized in [README.md](./README.md).
 
 ---
 
-## GermanKeyCut
+## Application and Delivery
 
-GermanKeyCut applies structural positioning to international offers entering or operating within the German market.
+The German market positioning work presented through GermanKeyCut applies structural positioning to international offers entering or operating within the German market.
 
-The current public interface structures work across six connected areas:
+The current public interface identifies six connected areas:
 
 * offer hierarchy
 * German offer structure
@@ -363,23 +363,25 @@ These areas are not a fixed service catalogue.
 
 They are possible intervention areas within the wider positioning system.
 
-GermanKeyCut can work across relevant public and non-public interfaces where those interfaces have material market consequences.
+Structural positioning can extend across relevant public and non-public interfaces where those interfaces have material market consequences.
 
 Execution may be performed:
 
-* directly
+* directly by Black Fern Creations LLC
 * with the client
 * through an existing agency
 * with another specialist
 
-Where another party executes, GermanKeyCut can define:
+Where another party executes, Black Fern Creations LLC can define:
 
 * what has to be built
 * why it is required
 * what structural function it serves
 * what conditions it has to satisfy
 
-GermanKeyCut is operated by **Black Fern Creations LLC**, the legal and contracting entity through which client engagements and implementation work are conducted.
+GermanKeyCut is the website at [germankeycut.com](https://germankeycut.com/) and the public interface through which Black Fern Creations LLC presents this work.
+
+Black Fern Creations LLC is the legal and contracting entity and the provider of client services described through GermanKeyCut.
 
 ---
 
@@ -393,4 +395,4 @@ GermanKeyCut is operated by **Black Fern Creations LLC**, the legal and contract
 
 For current commercial positioning and access:
 
-[germankeycut.com](https://germankeycut.com/)
+[GermanKeyCut at germankeycut.com](https://germankeycut.com/)
