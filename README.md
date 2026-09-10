@@ -22,7 +22,7 @@ Black Fern Creations LLC is the legal and contracting entity through which clien
 
 ---
 
-# German Market Positioning
+## German Market Positioning
 
 German market positioning concerns the structural configuration of an international offer for the conditions under which it will be interpreted, evaluated and carried forward within the German market.
 
@@ -66,7 +66,7 @@ A fuller definition is provided in [positioning.md](./positioning.md).
 
 ---
 
-# System Market
+## System Market
 
 GermanKeyCut uses the term **system market** for the market model underlying its approach to German market positioning.
 
@@ -104,11 +104,11 @@ The deeper model of **system market, selection, feedback, progression and integr
 
 ---
 
-# What GermanKeyCut Structures
+## What GermanKeyCut Structures
 
 The current public interface identifies six connected areas.
 
-## Offer hierarchy
+### Offer hierarchy
 
 What comes first.
 
@@ -118,7 +118,7 @@ What requires evidence.
 
 What can remain unsaid.
 
-## German offer structure
+### German offer structure
 
 What remains from the international offer.
 
@@ -126,7 +126,7 @@ What changes.
 
 What has to be built specifically for Germany.
 
-## Search, SEO and AI structure
+### Search, SEO and AI structure
 
 What the market searches for.
 
@@ -134,15 +134,15 @@ Which pages and information structures need to exist.
 
 How search engines and AI systems can find and correctly interpret the offer.
 
-## Market-entry pages
+### Market-entry pages
 
 The pages required to carry the offer into the German market with sufficient order, evidence and commercial clarity.
 
-## Recommendation routes
+### Recommendation routes
 
 The advisers, agencies, intermediaries and specialist channels through which an offer may be understood, evaluated, introduced or recommended.
 
-## Market-facing communication
+### Market-facing communication
 
 Selective communication with agencies, advisers, intermediaries and other relevant market actors where the offer needs to be positioned before it can be carried further.
 
@@ -152,7 +152,7 @@ They are possible interfaces within the same structural positioning approach.
 
 ---
 
-# Operational Structure
+## Operational Structure
 
 Structural positioning is operational rather than illustrative.
 
@@ -162,23 +162,23 @@ At its simplest, the operating sequence is:
 
 **diagnosis → structural requirements → interface configuration → implementation → feedback and progression observation**
 
-## Diagnosis
+### Diagnosis
 
 Identify where the current offer, structure or interfaces create ambiguity, incompatibility or unnecessary friction.
 
-## Structural requirements
+### Structural requirements
 
 Determine what can remain, what must change and what has to be built.
 
-## Interface configuration
+### Interface configuration
 
 Configure the relevant public and non-public interfaces according to their role within the wider structure.
 
-## Implementation
+### Implementation
 
 Implement directly, with the client, through an existing agency or with another specialist where appropriate.
 
-## Feedback and progression observation
+### Feedback and progression observation
 
 Observe how the configured structure performs through subsequent evaluation, interaction and progression.
 
@@ -194,7 +194,7 @@ Client services described through GermanKeyCut are provided through **Black Fern
 
 ---
 
-# Public and Non-Public Interfaces
+## Public and Non-Public Interfaces
 
 Structural positioning can extend across relevant public and non-public interfaces.
 
@@ -233,7 +233,7 @@ The distinction between interfaces and the information each requires is defined 
 
 ---
 
-# Structural Consistency
+## Structural Consistency
 
 The structural logic should remain coherent across relevant public and non-public interfaces.
 
@@ -259,7 +259,7 @@ It requires compatible structural meaning.
 
 ---
 
-# Category Boundaries
+## Category Boundaries
 
 Structural positioning can affect many functions without being defined by any one of them.
 
@@ -284,11 +284,11 @@ Detailed category boundaries are defined in [boundaries.md](./boundaries.md).
 
 ---
 
-# Public Interface and Structural Reference
+## Public Interface and Structural Reference
 
 GermanKeyCut currently uses two public information layers.
 
-## Public interface
+### Public interface
 
 [germankeycut.com](https://germankeycut.com/)
 
@@ -296,7 +296,7 @@ This is the canonical public commercial interface.
 
 It contains the current public positioning, scope and access point.
 
-## Structural reference
+### Structural reference
 
 This repository.
 
@@ -325,9 +325,9 @@ Where current commercial positioning and scope are concerned, the website remain
 
 ---
 
-# Entity Relationship
+## Entity Relationship
 
-## GermanKeyCut
+### GermanKeyCut
 
 GermanKeyCut is the public-facing name and website operated by **Black Fern Creations LLC**.
 
@@ -341,7 +341,7 @@ GermanKeyCut is not a separate legal entity.
 
 Client services described through GermanKeyCut are provided by **Black Fern Creations LLC**.
 
-## Black Fern Creations LLC
+### Black Fern Creations LLC
 
 Black Fern Creations LLC operates GermanKeyCut.
 
@@ -360,7 +360,7 @@ operator, legal entity, contracting entity and service provider
 
 ---
 
-# Intellectual Context
+## Intellectual Context
 
 Parts of the structural thinking underlying GermanKeyCut are being developed in parallel through a longer-form manuscript.
 
@@ -374,7 +374,7 @@ The relationship between the operational approach and the developing manuscript 
 
 ---
 
-# Reference Hierarchy
+## Reference Hierarchy
 
 For interpretation of GermanKeyCut, use the following hierarchy:
 
@@ -391,7 +391,7 @@ Where there is ambiguity about GermanKeyCut itself, the current public interface
 
 ---
 
-# Repository Documents
+## Repository Documents
 
 This repository is intended to remain limited, explicit and internally consistent.
 
