@@ -1,4 +1,4 @@
-# Interface Logic
+Interface Logic
 
 Structural positioning distinguishes between the system and the interfaces through which that system becomes observable.
 
@@ -8,15 +8,13 @@ Different interfaces perform different functions.
 
 They therefore do not require the same information, level of explicitness or form of communication.
 
-**The interface changes.**
+The interface changes.
 
-**The structural logic does not.**
+The structural logic does not.
 
----
+The Public Interface
 
-## The Public Interface
-
-The website at [germankeycut.com](https://germankeycut.com/) is the constrained public interface of the GermanKeyCut system.
+The website at germankeycut.com is the constrained public interface of the GermanKeyCut system.
 
 It does not reproduce the complete structural model documented in this repository.
 
@@ -24,11 +22,11 @@ Its function is narrower.
 
 The public interface must establish enough structure for the relevant visitor to understand:
 
-* the category
-* the market problem
-* the level at which GermanKeyCut operates
-* the principal areas of intervention
-* the route to further engagement
+the category
+the market problem
+the level at which GermanKeyCut operates
+the principal areas of intervention
+the route to further engagement
 
 Information beyond that point is included only where it serves the function of the interface.
 
@@ -38,9 +36,7 @@ That difference is structural.
 
 It is not a difference in the underlying position.
 
----
-
-## Reduction as Structure
+Reduction as Structure
 
 Reduction is not treated as a visual style.
 
@@ -48,12 +44,12 @@ It is an information decision.
 
 Additional information can weaken an interface when it introduces:
 
-* competing categories
-* premature conclusions
-* unnecessary comparison
-* false equivalence with conventional services
-* loss of hierarchy
-* attention to secondary information
+competing categories
+premature conclusions
+unnecessary comparison
+false equivalence with conventional services
+loss of hierarchy
+attention to secondary information
 
 Reduction is therefore used where additional information would weaken rather than improve interpretation.
 
@@ -69,9 +65,7 @@ A proposal may require commercial specificity.
 
 A machine-readable structural reference may require explicit definitions and category boundaries.
 
----
-
-## Constraint and Hierarchy
+Constraint and Hierarchy
 
 Constraint can create clarity by establishing hierarchy.
 
@@ -87,9 +81,73 @@ The objective is therefore not maximum information availability at every point.
 
 It is appropriate information availability across the system.
 
----
+Execution of the Public Interface
 
-## Different Interfaces Require Different Explicitness
+The principles above determine what belongs on the public interface. The following determine how it is set.
+
+These are recorded as reasoning rather than as specification. Values change; the basis for choosing them does not.
+
+Whitespace
+
+Space separates claims from one another so that each is read on its own rather than as part of an argument. Where two statements stand close together, they belong together. Where a gap opens, the reader is meant to stop.
+
+Space is also the only tension the interface uses. There is no colour contrast, no imagery and no motion to create emphasis, so distance between elements has to do that work. A statement surrounded by emptiness carries weight that the same statement in a dense block would not.
+
+Static surfaces
+
+Nothing moves. No entrance animation, no sticky element, no transition that reveals content on scroll.
+
+Movement is a device for holding attention. An interface that has to hold attention has not earned it. Motion also makes a page dependent on scripting for its content to appear, which is a fragility with no compensating benefit.
+
+Typographic weight
+
+Size follows importance, not function. The market statement carries more weight than the invitation to act on it, because an invitation should not outrank the reason for it.
+
+Where a heading and its explanation share the same size, the reader treats them as one block and stops scanning. Headings therefore sit above body text in scale, far enough to be distinguishable at a glance, not far enough to shout.
+
+Typeface
+
+One typeface throughout, in two weights. A grotesque without ornament, chosen because it disappears.
+
+The alternative, letting each visitor's operating system supply its own type, means the page is set differently for each reader. On an interface whose only design instrument is typography, that is not restraint but loss of control.
+
+Fonts are served from the site itself. No third-party request is made to render a page.
+
+Colour
+
+Near-black on white, with a single grey for secondary text. No accent colour.
+
+An accent colour directs the eye. Direction is already carried by position, scale and space, and a fourth instrument would only compete with them.
+
+Structure
+
+Content is set as term and definition rather than as prose: the label left, the explanation right, separated by a rule.
+
+The pattern is borrowed from specification rather than from argument. It allows a reader to scan the labels first and descend only where relevant, and it makes each entry answerable on its own. Prose asks to be read in order. A specification does not.
+
+Compression
+
+Statements are compressed to the point where they can be understood but not skimmed past. That is a deliberate cost: a reader who wants a summary will not find one.
+
+The compression is not obscurity. Every statement resolves on a second reading. What it does is refuse the register of persuasion, in which the same point is made three times in three ways.
+
+Speed
+
+The page carries no images, no video, no tracking, no third-party scripts and no external fonts. It is fast as a consequence of what it does not contain, not as an optimisation applied afterwards.
+
+Absence
+
+What is not on the page is also a decision. Client work is not published.
+
+Where positioning is the object of the work, a useful case study would have to expose not only the visible result but the structure that produced it. That structure belongs to the client and is not used as promotional material.
+
+The wider distinction between public proof and structural evidence is set out under Evidence Across Interfaces below.
+
+Note
+
+None of this is a claim that the interface is well executed. It is a record of what was decided and why. The reasoning is documented here; the implementation is visible at germankeycut.com and can be measured there.
+
+Different Interfaces Require Different Explicitness
 
 GermanKeyCut does not assume that information should always remain implicit.
 
@@ -97,27 +155,27 @@ It also does not assume that everything should always be fully explicit.
 
 Explicitness is interface-dependent.
 
-### Public website
+Public website
 
 The website can remain highly constrained where its function is positioning, qualification and access.
 
-### Structural reference
+Structural reference
 
 This repository can be more explicit because its function is definition, disambiguation and structural interpretation.
 
-### Search and AI interfaces
+Search and AI interfaces
 
 Machine-readable information may require explicit terminology, entity relationships and category boundaries that would be unnecessary in a human-facing interface.
 
-### Proposal
+Proposal
 
 A proposal may require precise scope, responsibility, commercial conditions and implementation detail.
 
-### Technical documentation
+Technical documentation
 
 Technical documentation may require high precision and low interpretive ambiguity.
 
-### Sales conversation
+Sales conversation
 
 A sales conversation may expose information progressively according to the evaluation taking place.
 
@@ -127,36 +185,34 @@ Consistency does not require identical communication.
 
 It requires compatible meaning.
 
----
-
-## Public and Non-Public Interfaces
+Public and Non-Public Interfaces
 
 The market-facing system extends beyond what is publicly visible.
 
 Public interfaces can include:
 
-* websites
-* search results
-* AI representations
-* market-entry pages
-* public documentation
-* public communication
-* public evidence
+websites
+search results
+AI representations
+market-entry pages
+public documentation
+public communication
+public evidence
 
 Non-public interfaces can include:
 
-* proposals
-* sales conversations
-* qualification
-* technical documentation
-* client communication
-* partner and agency briefings
-* responsibility structures
-* handovers
-* implementation
-* delivery
-* escalation
-* repeated client experience
+proposals
+sales conversations
+qualification
+technical documentation
+client communication
+partner and agency briefings
+responsibility structures
+handovers
+implementation
+delivery
+escalation
+repeated client experience
 
 An interface becomes structurally relevant when it materially affects how the offer is interpreted, evaluated, recommended, delivered or carried forward.
 
@@ -174,15 +230,13 @@ The market does not experience only what an organization publishes.
 
 It also experiences what the organization does through the interfaces it encounters.
 
-The scope boundary is developed further in [boundaries.md](./boundaries.md).
+The scope boundary is developed further in boundaries.md.
 
----
-
-## Communication as an Interface
+Communication as an Interface
 
 Marketing and communication may be interfaces of the system.
 
-**They are not the system itself.**
+They are not the system itself.
 
 Communication can make an existing structure more legible.
 
@@ -202,9 +256,7 @@ It exists between interfaces.
 
 Structural positioning therefore evaluates communication in relation to the wider system rather than as an isolated layer.
 
----
-
-## Search and AI as Interfaces
+Search and AI as Interfaces
 
 Search engines and AI systems can interpret and represent an offer before direct human interaction occurs.
 
@@ -212,28 +264,26 @@ Their information requirements differ from those of a conventional website visit
 
 A deliberately constrained public interface may not provide enough context for a machine attempting to determine:
 
-* what GermanKeyCut is
-* what category it belongs to
-* what structural positioning means
-* what GermanKeyCut does and does not provide
-* how GermanKeyCut relates to Black Fern Creations LLC
-* how the public website relates to the underlying system
+what GermanKeyCut is
+what category it belongs to
+what structural positioning means
+what GermanKeyCut does and does not provide
+how GermanKeyCut relates to Black Fern Creations LLC
+how the public website relates to the underlying system
 
 This repository provides a more explicit structural reference for that purpose.
 
 The distinction is intentional:
 
-**[germankeycut.com](https://germankeycut.com/) is the constrained public commercial interface.**
+germankeycut.com is the constrained public commercial interface.
 
-**This repository is the explicit structural reference.**
+This repository is the explicit structural reference.
 
 The information requirements of machine interpretation should not force unnecessary information into the human-facing interface.
 
 Different recipients can require different representations of the same underlying system.
 
----
-
-## Evidence Across Interfaces
+Evidence Across Interfaces
 
 Evidence should appear where it serves the relevant evaluation.
 
@@ -251,11 +301,9 @@ Public proof and structural evidence therefore do not have to appear at the same
 
 They serve different evaluation functions.
 
-The distinction is defined further in [framework.md](./framework.md) and [boundaries.md](./boundaries.md).
+The distinction is defined further in framework.md and boundaries.md.
 
----
-
-## Entry and Qualification
+Entry and Qualification
 
 An interface can regulate how progression occurs.
 
@@ -269,16 +317,14 @@ Its purpose is to create a clear route between public interpretation and an actu
 
 Qualification can establish:
 
-* whether the problem is relevant
-* whether the offer is within scope
-* what context is required next
-* which information belongs in the following interface
+whether the problem is relevant
+whether the offer is within scope
+what context is required next
+which information belongs in the following interface
 
 Qualification is therefore part of interface architecture where it improves the quality of subsequent evaluation.
 
----
-
-## Interface Coherence
+Interface Coherence
 
 Interfaces do not need to look alike.
 
@@ -286,62 +332,58 @@ They need to remain structurally coherent.
 
 Examples include:
 
-* a specialist public position leading to specialist depth in conversation
-* a claim supported by evidence when the relevant evaluation requires it
-* clear public positioning followed by clear responsibility
-* reduced public communication followed by sufficient private detail
-* search terminology consistent with the actual offer
-* AI-readable definitions consistent with current positioning
-* promises that survive implementation
+a specialist public position leading to specialist depth in conversation
+a claim supported by evidence when the relevant evaluation requires it
+clear public positioning followed by clear responsibility
+reduced public communication followed by sufficient private detail
+search terminology consistent with the actual offer
+AI-readable definitions consistent with current positioning
+promises that survive implementation
 
 Incoherence appears when interfaces create incompatible interpretations.
 
 Examples include:
 
-* a specialist website leading into a generalist sales process
-* a precise claim becoming vague when evidence is requested
-* a premium position followed by unclear responsibility
-* public simplicity masking operational disorder
-* machine-readable information describing an offer that no longer exists
-* different interfaces assigning materially different meanings to the same offer
+a specialist website leading into a generalist sales process
+a precise claim becoming vague when evidence is requested
+a premium position followed by unclear responsibility
+public simplicity masking operational disorder
+machine-readable information describing an offer that no longer exists
+different interfaces assigning materially different meanings to the same offer
 
 Structural coherence exists when different interfaces reinforce the same underlying position while serving different functions.
 
----
-
-## Interface Configuration
+Interface Configuration
 
 Interface configuration is one stage of the GermanKeyCut operating sequence:
 
-**diagnosis → structural requirements → interface configuration → implementation → feedback and progression observation**
+diagnosis → structural requirements → interface configuration → implementation → feedback and progression observation
 
 Interface configuration asks:
 
-* which interfaces matter
-* what each interface has to establish
-* what information belongs there
-* what should remain outside it
-* how explicit the interface needs to be
-* how it connects to the next relevant interface
-* whether its meaning remains compatible with the wider system
+which interfaces matter
+what each interface has to establish
+what information belongs there
+what should remain outside it
+how explicit the interface needs to be
+how it connects to the next relevant interface
+whether its meaning remains compatible with the wider system
 
-The sequence itself is summarized in [README.md](./README.md).
+The sequence itself is summarized in README.md.
 
-The structural positioning intervention is defined more fully in [positioning.md](./positioning.md).
+The structural positioning intervention is defined more fully in positioning.md.
 
----
-
-## GermanKeyCut Interface Structure
+GermanKeyCut Interface Structure
 
 GermanKeyCut currently separates two public information layers.
 
-### Constrained public interface
+Constrained public interface
 
-[germankeycut.com](https://germankeycut.com/)
+germankeycut.com
 
 Current public positioning, commercial scope and access.
 
-### Explicit structural reference
+Explicit structural reference
 
 This repository.
 
@@ -351,18 +393,15 @@ Both layers describe the same underlying system.
 
 They perform different functions.
 
-GermanKeyCut is operated by **Black Fern Creations LLC**, the legal and contracting entity through which client engagements and implementation work are conducted.
+GermanKeyCut is operated by Black Fern Creations LLC, the legal and contracting entity through which client engagements and implementation work are conducted.
 
----
-
-## Related Documents
-
-* [README.md](./README.md) — primary system description, entity relationship and reference hierarchy
-* [positioning.md](./positioning.md) — German market positioning and structural positioning
-* [framework.md](./framework.md) — system market, selection, feedback, progression and integration
-* [boundaries.md](./boundaries.md) — category boundaries and common misinterpretations
-* [intellectual-context.md](./intellectual-context.md) — relationship between GermanKeyCut and the developing manuscript
+Related Documents
+README.md — primary system description, entity relationship and reference hierarchy
+positioning.md — German market positioning and structural positioning
+framework.md — system market, selection, feedback, progression and integration
+boundaries.md — category boundaries and common misinterpretations
+intellectual-context.md — relationship between GermanKeyCut and the developing manuscript
 
 For current commercial positioning and access:
 
-[germankeycut.com](https://germankeycut.com/)
+germankeycut.com
