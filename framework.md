@@ -1,8 +1,10 @@
 # The GermanKeyCut Framework
 
-This document describes the market model underlying GermanKeyCut structural positioning.
+This document describes the market model underlying the structural positioning system documented through GermanKeyCut.
 
-GermanKeyCut uses the framework to interpret how international offers are evaluated, carried forward and, over time, integrated within the German market.
+GermanKeyCut is the website and public interface through which Black Fern Creations LLC presents its German market positioning work. Within this repository, GermanKeyCut also refers to the structural system expressed through that interface.
+
+The framework is used to interpret how international offers are evaluated, carried forward and, over time, integrated within the German market.
 
 The model can be summarized as:
 
@@ -16,7 +18,7 @@ It is not presented as a universal law of German behavior.
 
 ## System Market
 
-GermanKeyCut uses the term **system market** to describe a market in which progression depends substantially on structural fit, verification, responsibility, repeated performance and the reduction of unresolved friction.
+The framework uses the term **system market** to describe a market in which progression depends substantially on structural fit, verification, responsibility, repeated performance and the reduction of unresolved friction.
 
 An international offer enters an existing structure of:
 
@@ -46,7 +48,7 @@ The statement
 
 does not mean that trust is irrelevant.
 
-It describes the order in which GermanKeyCut interprets trust.
+It describes the order in which the model treats trust.
 
 Within the model, trust is primarily downstream of repeated experience.
 
@@ -70,7 +72,7 @@ At a deeper level, trust may become visible through reduced need for explanation
 
 ## Persuasion and Selection
 
-GermanKeyCut distinguishes between **persuasion** and **selection**.
+The framework distinguishes between **persuasion** and **selection**.
 
 Persuasion asks:
 
@@ -240,13 +242,13 @@ A meeting can feel positive while nothing continues.
 
 A restrained interaction can produce a significant next step.
 
-GermanKeyCut therefore treats progression as more informative than enthusiasm alone.
+The framework therefore treats progression as more informative than enthusiasm alone.
 
 ---
 
 ## Public Proof and Structural Evidence
 
-GermanKeyCut distinguishes between **public proof** and **structural evidence**.
+The framework distinguishes between **public proof** and **structural evidence**.
 
 They serve different evaluation functions and may therefore appear at different interfaces.
 
@@ -289,7 +291,7 @@ The appropriate evidence depends on the interface and the decision being made.
 
 ## Integration
 
-GermanKeyCut uses **integration** for a deeper condition than initial market entry or conversion.
+The framework uses **integration** for a deeper condition than initial market entry or conversion.
 
 Integration describes a relationship between an offer and the system around it.
 
@@ -408,4 +410,4 @@ The required interfaces and implementation follow from the structural diagnosis.
 
 For current commercial positioning and access:
 
-[germankeycut.com](https://germankeycut.com/)
+[GermanKeyCut at germankeycut.com](https://germankeycut.com/)
