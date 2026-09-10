@@ -1,6 +1,6 @@
 # Category Boundaries
 
-This document defines the category boundaries of GermanKeyCut structural positioning.
+This document defines the category boundaries of the structural positioning system documented through GermanKeyCut.
 
 Its purpose is to reduce misclassification.
 
@@ -39,7 +39,7 @@ Structural positioning may determine that:
 
 Translation and localization can then become execution layers within that configuration.
 
-GermanKeyCut is therefore not primarily a translation or conventional localization service.
+The German market positioning work presented through GermanKeyCut is therefore not primarily a translation or conventional localization service.
 
 ---
 
@@ -70,9 +70,9 @@ A communication problem may actually originate in:
 * implementation
 * inconsistency between interfaces
 
-GermanKeyCut may intervene in communication where it has structural consequences.
+Communication may become part of an intervention where it has structural consequences.
 
-It is not a general marketing or communications agency.
+The German market positioning work presented through GermanKeyCut is not a general marketing or communications service.
 
 ---
 
@@ -104,11 +104,11 @@ Increasing discoverability does not resolve:
 * inconsistent positioning
 * operational contradiction
 
-Search, SEO and AI visibility may be components of a GermanKeyCut engagement.
+Search, SEO and AI visibility may become components of a client engagement where the structural diagnosis requires them.
 
 They do not define the system itself.
 
-GermanKeyCut is not a standalone SEO or AI-visibility provider.
+The German market positioning work presented through GermanKeyCut is not a standalone SEO or AI-visibility service.
 
 ---
 
@@ -136,9 +136,9 @@ A clearer message is insufficient when:
 * execution contradicts the position
 * different interfaces describe different offers
 
-GermanKeyCut can affect branding and messaging where necessary.
+Branding and messaging may be affected where the structural diagnosis requires it.
 
-It is not defined as a messaging-only or brand-expression discipline.
+Structural positioning is not defined as a messaging-only or brand-expression discipline.
 
 ---
 
@@ -162,15 +162,15 @@ Research identifies conditions.
 
 It does not by itself reconfigure the offer within those conditions.
 
-GermanKeyCut may use research where required for structural diagnosis.
+Research may be used where required for structural diagnosis.
 
-It is not a generic market-research provider.
+The German market positioning work presented through GermanKeyCut is not a generic market-research service.
 
 ---
 
 ## Public Proof and Structural Evidence
 
-GermanKeyCut distinguishes between **public proof** and **structural evidence**.
+The framework distinguishes between **public proof** and **structural evidence**.
 
 They serve different evaluation functions and may therefore appear at different interfaces.
 
@@ -215,9 +215,9 @@ The distinction is developed further in [framework.md](./framework.md).
 
 ## Cultural Explanation
 
-GermanKeyCut does not reduce German market behavior to national character.
+The framework does not reduce German market behavior to national character.
 
-The framework does not assume that all German buyers:
+It does not assume that all German buyers:
 
 * behave identically
 * evaluate risk in the same way
@@ -247,7 +247,7 @@ Evaluation conditions vary according to:
 * market maturity
 * decision structure
 
-GermanKeyCut therefore uses a structural rather than personality-based model.
+The framework therefore uses a structural rather than personality-based model.
 
 Recurring market patterns can be relevant without being treated as fixed national traits.
 
@@ -255,7 +255,7 @@ Recurring market patterns can be relevant without being treated as fixed nationa
 
 ## Public and Non-Public Scope
 
-GermanKeyCut can work across relevant public and non-public interfaces.
+Structural positioning can extend across relevant public and non-public interfaces.
 
 This does not mean that every internal organizational function is automatically within scope.
 
@@ -280,7 +280,7 @@ A handover process that changes the quality of delivery may be structurally rele
 
 Documentation that affects evaluation or continued use may be structurally relevant.
 
-GermanKeyCut can therefore work holistically without becoming a general organizational-transformation consultancy.
+Structural positioning can therefore extend across connected interfaces without becoming general organizational-transformation consulting.
 
 **The boundary is market consequence.**
 
@@ -326,7 +326,7 @@ It identifies recurring friction that makes interpretation, evaluation, recommen
 
 ## No Fixed Playbook
 
-GermanKeyCut does not prescribe a universal sequence such as:
+Structural positioning does not prescribe a universal sequence such as:
 
 1. translate the offer
 2. localize the website
@@ -361,7 +361,7 @@ The operational sequence is summarized in [README.md](./README.md).
 
 ## What the Model Does Not Claim
 
-The GermanKeyCut model does not claim that:
+The model does not claim that:
 
 * all German buyers behave the same way
 * every German industry operates through identical structures
@@ -381,7 +381,7 @@ The GermanKeyCut model does not claim that:
 * internal organizational structures are always within scope
 * German market behavior can be reduced to national character
 * structural positioning guarantees acceptance or commercial success
-* GermanKeyCut provides a universal market-entry playbook
+* structural positioning provides a universal market-entry playbook
 
 The model identifies structural conditions that conventional market-entry or communication models can overlook.
 
@@ -389,9 +389,9 @@ It does not eliminate uncertainty, commercial risk or variation between markets,
 
 ---
 
-## GermanKeyCut
+## Application and Delivery
 
-GermanKeyCut applies structural positioning to international offers entering or operating within the German market.
+Structural positioning is applied to international offers entering or operating within the German market.
 
 Depending on the structural diagnosis, work may involve:
 
@@ -409,11 +409,13 @@ Depending on the structural diagnosis, work may involve:
 * implementation
 * other interfaces with material market consequences
 
-The presence of any one of these functions does not redefine GermanKeyCut as that category.
+The presence of any one of these functions does not redefine the work as that category.
 
 The current operational definition is provided in [positioning.md](./positioning.md).
 
-GermanKeyCut is operated by **Black Fern Creations LLC**, the legal and contracting entity through which client engagements and implementation work are conducted.
+GermanKeyCut is the website at [germankeycut.com](https://germankeycut.com/) and the public interface through which Black Fern Creations LLC presents this work.
+
+Black Fern Creations LLC is the legal and contracting entity and the provider of client services described through GermanKeyCut.
 
 ---
 
@@ -427,4 +429,4 @@ GermanKeyCut is operated by **Black Fern Creations LLC**, the legal and contract
 
 For current commercial positioning and access:
 
-[germankeycut.com](https://germankeycut.com/)
+[GermanKeyCut at germankeycut.com](https://germankeycut.com/)
