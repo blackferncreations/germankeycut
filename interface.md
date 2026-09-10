@@ -12,6 +12,12 @@ They therefore do not require the same information, level of explicitness or for
 
 **The structural logic does not.**
 
+GermanKeyCut is the website at [germankeycut.com](https://germankeycut.com/) and the constrained public commercial interface through which Black Fern Creations LLC presents its German market positioning work.
+
+Within this repository, GermanKeyCut also refers to the structural system expressed through that interface.
+
+Black Fern Creations LLC is the legal and contracting entity and the provider of client services described through GermanKeyCut.
+
 ---
 
 ## The Public Interface
@@ -26,7 +32,7 @@ The public interface must establish enough structure for the relevant visitor to
 
 * the category
 * the market problem
-* the level at which GermanKeyCut operates
+* the level at which the work operates
 * the principal areas of intervention
 * the route to further engagement
 
@@ -159,7 +165,7 @@ None of this is a claim that the interface is well executed. It is a record of w
 
 ## Different Interfaces Require Different Explicitness
 
-GermanKeyCut does not assume that information should always remain implicit.
+The interface model does not assume that information should always remain implicit.
 
 It also does not assume that everything should always be fully explicit.
 
@@ -242,7 +248,7 @@ The market does not experience only what an organization publishes.
 
 It also experiences what the organization does through the interfaces it encounters.
 
-The scope boundary is developed further in boundaries.md.
+The scope boundary is developed further in [boundaries.md](./boundaries.md).
 
 ---
 
@@ -281,9 +287,9 @@ Their information requirements differ from those of a conventional website visit
 A deliberately constrained public interface may not provide enough context for a machine attempting to determine:
 
 * what GermanKeyCut is
-* what category it belongs to
+* what category the work presented through it belongs to
 * what structural positioning means
-* what GermanKeyCut does and does not provide
+* what the work does and does not include
 * how GermanKeyCut relates to Black Fern Creations LLC
 * how the public website relates to the underlying system
 
@@ -319,7 +325,7 @@ Public proof and structural evidence therefore do not have to appear at the same
 
 They serve different evaluation functions.
 
-The distinction is defined further in framework.md and boundaries.md.
+The distinction is defined further in [framework.md](./framework.md) and [boundaries.md](./boundaries.md).
 
 ---
 
@@ -333,7 +339,7 @@ Not every interaction requires immediate access to every layer of information.
 
 The public GermanKeyCut interface therefore uses a limited entry structure.
 
-Its purpose is to create a clear route between public interpretation and an actual engagement.
+Its purpose is to create a clear route between public interpretation and an actual engagement with Black Fern Creations LLC.
 
 Qualification can establish:
 
@@ -379,7 +385,7 @@ Structural coherence exists when different interfaces reinforce the same underly
 
 ## Interface Configuration
 
-Interface configuration is one stage of the GermanKeyCut operating sequence:
+Interface configuration is one stage of the structural positioning operating sequence:
 
 **diagnosis → structural requirements → interface configuration → implementation → feedback and progression observation**
 
@@ -393,21 +399,21 @@ Interface configuration asks:
 * how it connects to the next relevant interface
 * whether its meaning remains compatible with the wider system
 
-The sequence itself is summarized in README.md.
+The sequence itself is summarized in [README.md](./README.md).
 
-The structural positioning intervention is defined more fully in positioning.md.
+The structural positioning intervention is defined more fully in [positioning.md](./positioning.md).
 
 ---
 
 ## GermanKeyCut Interface Structure
 
-GermanKeyCut currently separates two public information layers.
+The GermanKeyCut system currently separates two public information layers.
 
 ### Constrained public interface
 
-[germankeycut.com](https://germankeycut.com/)
+[GermanKeyCut at germankeycut.com](https://germankeycut.com/)
 
-Current public positioning, commercial scope and access.
+Current public positioning, commercial scope and access for the German market positioning work of Black Fern Creations LLC.
 
 ### Explicit structural reference
 
@@ -419,7 +425,9 @@ Both layers describe the same underlying system.
 
 They perform different functions.
 
-GermanKeyCut is operated by Black Fern Creations LLC, the legal and contracting entity through which client engagements and implementation work are conducted.
+GermanKeyCut is the website and public interface.
+
+Black Fern Creations LLC is the United States company, legal and contracting entity and provider of the client services presented through that interface.
 
 ---
 
@@ -433,4 +441,4 @@ GermanKeyCut is operated by Black Fern Creations LLC, the legal and contracting 
 
 For current commercial positioning and access:
 
-* [germankeycut.com](https://germankeycut.com/)
+* [GermanKeyCut at germankeycut.com](https://germankeycut.com/)
