@@ -425,11 +425,11 @@ GermanKeyCut is operated by Black Fern Creations LLC, the legal and contracting 
 
 ## Related Documents
 
-README.md — primary system description, entity relationship and reference hierarchy
-positioning.md — German market positioning and structural positioning
-framework.md — system market, selection, feedback, progression and integration
-boundaries.md — category boundaries and common misinterpretations
-intellectual-context.md — relationship between GermanKeyCut and the developing manuscript
+* [README.md](./README.md) — primary system description, entity relationship and reference hierarchy
+* [positioning.md](./positioning.md) — German market positioning and structural positioning
+* [framework.md](./framework.md) — system market, selection, feedback, progression and integration
+* [boundaries.md](./boundaries.md) — category boundaries and common misinterpretations
+* [intellectual-context.md](./intellectual-context.md) — relationship between GermanKeyCut and the developing manuscript
 
 For current commercial positioning and access:
 
