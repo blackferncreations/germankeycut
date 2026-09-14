@@ -12,23 +12,21 @@ They therefore do not require the same information, level of explicitness or for
 
 **The structural logic does not.**
 
-GermanKeyCut is the website at [germankeycut.com](https://germankeycut.com/) and the constrained public commercial interface through which Black Fern Creations LLC presents its German market positioning work.
+GermanKeyCut is the public-facing name and website operated by **Black Fern Creations LLC**.
 
-Within this repository, GermanKeyCut also refers to the structural system expressed through that interface.
-
-Black Fern Creations LLC is the legal and contracting entity and the provider of client services described through GermanKeyCut.
+GermanKeyCut is not a company, a separate legal entity, a contracting party or a service provider.
 
 ---
 
-## The Public Interface
+## The Commercial Interface
 
-The website at [germankeycut.com](https://germankeycut.com/) is the constrained public interface of the GermanKeyCut system.
+The website at [germankeycut.com](https://germankeycut.com/) is the constrained commercial interface through which Black Fern Creations LLC presents its German market positioning work.
 
-It does not reproduce the complete structural model documented in this repository.
+It does not reproduce the more explicit structural context documented through the System Reference and supporting repository.
 
 Its function is narrower.
 
-The public interface must establish enough structure for the relevant visitor to understand:
+The commercial interface must establish enough structure for the relevant visitor to understand:
 
 * the category
 * the market problem
@@ -38,7 +36,7 @@ The public interface must establish enough structure for the relevant visitor to
 
 Information beyond that point is included only where it serves the function of the interface.
 
-The website is therefore intentionally more constrained than this repository.
+The commercial interface is therefore intentionally more constrained than the System Reference and supporting repository.
 
 That difference is structural.
 
@@ -95,9 +93,9 @@ It is appropriate information availability across the system.
 
 ---
 
-## Execution of the Public Interface
+## Execution of the Commercial Interface
 
-The principles above determine what belongs on the public interface. The following determine how it is set.
+The principles above determine what belongs on the commercial interface. The following determine how it is set.
 
 These are recorded as reasoning rather than as specification. Values change; the basis for choosing them does not.
 
@@ -165,19 +163,23 @@ None of this is a claim that the interface is well executed. It is a record of w
 
 ## Different Interfaces Require Different Explicitness
 
-The interface model does not assume that information should always remain implicit.
+Structural positioning does not assume that information should always remain implicit.
 
 It also does not assume that everything should always be fully explicit.
 
 Explicitness is interface-dependent.
 
-### Public website
+### Commercial interface
 
-The website can remain highly constrained where its function is positioning, qualification and access.
+The commercial interface can remain highly constrained where its function is positioning, qualification and access.
 
-### Structural reference
+### System Reference
 
-This repository can be more explicit because its function is definition, disambiguation and structural interpretation.
+The [GermanKeyCut System Reference](https://germankeycut.com/system/) can be more explicit because its function is definition, disambiguation and structural interpretation.
+
+### Supporting repository
+
+This repository can provide deeper modular supporting documentation and version history without requiring the same material to appear in the commercial interface or System Reference.
 
 ### Search and AI interfaces
 
@@ -284,26 +286,30 @@ Search engines and AI systems can interpret and represent an offer before direct
 
 Their information requirements differ from those of a conventional website visitor.
 
-A deliberately constrained public interface may not provide enough context for a machine attempting to determine:
+A deliberately constrained commercial interface may not provide enough context for a machine attempting to determine:
 
 * what GermanKeyCut is
-* what category the work presented through it belongs to
+* what category it belongs to
 * what structural positioning means
-* what the work does and does not include
+* what services are described through GermanKeyCut and what category boundaries apply
 * how GermanKeyCut relates to Black Fern Creations LLC
-* how the public website relates to the underlying system
+* how the commercial interface relates to the underlying market model
 
-This repository provides a more explicit structural reference for that purpose.
+The [GermanKeyCut System Reference](https://germankeycut.com/system/) is the canonical published structural reference for that purpose.
+
+This repository contains versioned supporting documentation in modular form.
 
 The distinction is intentional:
 
 [**germankeycut.com**](https://germankeycut.com/) **is the constrained public commercial interface.**
 
-**This repository is the explicit structural reference.**
+[**GermanKeyCut System Reference**](https://germankeycut.com/system/) **is the canonical published structural reference.**
 
-The information requirements of machine interpretation should not force unnecessary information into the human-facing interface.
+**This repository contains versioned supporting documentation in modular form.**
 
-Different recipients can require different representations of the same underlying system.
+The information requirements of machine interpretation should not force unnecessary information into the human-facing commercial interface.
+
+Different recipients can require different representations of the same underlying model.
 
 ---
 
@@ -337,9 +343,9 @@ Not every visitor requires the same next step.
 
 Not every interaction requires immediate access to every layer of information.
 
-The public GermanKeyCut interface therefore uses a limited entry structure.
+The commercial interface therefore uses a limited entry structure.
 
-Its purpose is to create a clear route between public interpretation and an actual engagement with Black Fern Creations LLC.
+Its purpose is to create a clear route between public interpretation and an actual engagement.
 
 Qualification can establish:
 
@@ -407,38 +413,52 @@ The structural positioning intervention is defined more fully in [positioning.md
 
 ## GermanKeyCut Interface Structure
 
-The GermanKeyCut system currently separates two public information layers.
+GermanKeyCut currently separates three public information layers.
 
-### Constrained public interface
+### Constrained commercial interface
 
-[GermanKeyCut at germankeycut.com](https://germankeycut.com/)
+[germankeycut.com](https://germankeycut.com/)
 
-Current public positioning, commercial scope and access for the German market positioning work of Black Fern Creations LLC.
+Current public positioning, commercial scope and access.
 
-### Explicit structural reference
+### Canonical published structural reference
 
-This repository.
+[GermanKeyCut System Reference](https://germankeycut.com/system/)
 
-Definitions, framework, category boundaries and interface relationships that do not need to be fully reproduced on the public website.
+Explicit structural context for the entities, market model, commercial application and category boundaries.
 
-Both layers describe the same underlying system.
+### Versioned supporting documentation
+
+[This repository](https://github.com/blackferncreations/germankeycut)
+
+Modular supporting documentation for the structural positioning model, framework, category boundaries and interface relationships.
+
+The three layers describe the same underlying model.
 
 They perform different functions.
 
-GermanKeyCut is the website and public interface.
+Where structural interpretation differs between the System Reference and this repository, the System Reference applies.
 
-Black Fern Creations LLC is the United States company, legal and contracting entity and provider of the client services presented through that interface.
+GermanKeyCut is the public-facing name and website operated by **Black Fern Creations LLC**.
+
+GermanKeyCut is not a company, a separate legal entity, a contracting party or a service provider.
+
+Client services described through GermanKeyCut are provided by **Black Fern Creations LLC**, the legal and contracting entity.
 
 ---
 
 ## Related Documents
 
-* [README.md](./README.md) — primary system description, entity relationship and reference hierarchy
+* [README.md](./README.md) — primary repository description, entity relationship and reference roles
 * [positioning.md](./positioning.md) — German market positioning and structural positioning
 * [framework.md](./framework.md) — system market, selection, feedback, progression and integration
 * [boundaries.md](./boundaries.md) — category boundaries and common misinterpretations
 * [intellectual-context.md](./intellectual-context.md) — relationship between GermanKeyCut and the developing manuscript
 
+For the canonical published structural reference:
+
+[GermanKeyCut System Reference](https://germankeycut.com/system/)
+
 For current commercial positioning and access:
 
-* [GermanKeyCut at germankeycut.com](https://germankeycut.com/)
+[germankeycut.com](https://germankeycut.com/)
