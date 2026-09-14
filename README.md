@@ -190,7 +190,7 @@ Black Fern Creations LLC does not develop strategies it would not be prepared to
 
 Where another party executes, Black Fern Creations LLC can define what has to be built, why it is required, what structural function it serves and what conditions it has to satisfy.
 
-Client services described through GermanKeyCut are provided through **Black Fern Creations LLC**.
+Client services described through GermanKeyCut are provided by **Black Fern Creations LLC**.
 
 ---
 
