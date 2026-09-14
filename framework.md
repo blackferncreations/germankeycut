@@ -1,10 +1,12 @@
 # The GermanKeyCut Framework
 
-This document describes the market model underlying the structural positioning system documented through GermanKeyCut.
+This document describes the market model underlying the structural positioning method referenced through GermanKeyCut.
 
-GermanKeyCut is the website and public interface through which Black Fern Creations LLC presents its German market positioning work. Within this repository, GermanKeyCut also refers to the structural system expressed through that interface.
+GermanKeyCut is the public-facing name and website operated by **Black Fern Creations LLC**.
 
-The framework is used to interpret how international offers are evaluated, carried forward and, over time, integrated within the German market.
+GermanKeyCut is not a company, a separate legal entity, a contracting party or a service provider.
+
+Black Fern Creations LLC applies the framework to interpret how international offers are evaluated, carried forward and, over time, integrated within the German market.
 
 The model can be summarized as:
 
@@ -48,7 +50,7 @@ The statement
 
 does not mean that trust is irrelevant.
 
-It describes the order in which the model treats trust.
+It describes the order in which the framework interprets trust.
 
 Within the model, trust is primarily downstream of repeated experience.
 
@@ -143,7 +145,7 @@ It may also remain implicit:
 * an introduction does not occur
 * the next order does not arrive
 
-Structural positioning therefore treats both visible response and absent progression as information.
+The framework therefore treats both visible response and absent progression as information.
 
 The absence of complaint is not automatically the absence of friction.
 
@@ -151,7 +153,9 @@ The absence of complaint is not automatically the absence of friction.
 
 ## Structural Friction
 
-Structural friction is recurring effort or ambiguity that makes an offer unnecessarily harder to interpret, evaluate, recommend or continue with.
+**Structural friction is recurring effort or ambiguity that makes an offer unnecessarily harder to interpret, evaluate, recommend or continue with.**
+
+It can remain largely invisible.
 
 Examples can include:
 
@@ -402,12 +406,16 @@ The required interfaces and implementation follow from the structural diagnosis.
 
 ## Related Documents
 
-* [README.md](./README.md) — primary system description, entity relationship and reference hierarchy
+* [README.md](./README.md) — primary repository description, entity relationship and reference roles
 * [positioning.md](./positioning.md) — German market positioning and structural positioning
 * [boundaries.md](./boundaries.md) — category boundaries and common misinterpretations
 * [interface.md](./interface.md) — public and non-public interface logic
 * [intellectual-context.md](./intellectual-context.md) — relationship between GermanKeyCut and the developing manuscript
 
+For the canonical published structural reference:
+
+[GermanKeyCut System Reference](https://germankeycut.com/system/)
+
 For current commercial positioning and access:
 
-[GermanKeyCut at germankeycut.com](https://germankeycut.com/)
+[germankeycut.com](https://germankeycut.com/)
