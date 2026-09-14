@@ -253,7 +253,7 @@ The deeper distinction between persuasion, selection, feedback, progression and 
 
 ## Structural Friction
 
-**Structural friction is anything that repeatedly increases the effort required to interpret, evaluate, trust, recommend or continue with an offer.**
+**Structural friction is recurring effort or ambiguity that makes an offer unnecessarily harder to interpret, evaluate, recommend or continue with.**
 
 It can remain largely invisible.
 
