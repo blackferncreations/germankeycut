@@ -1,26 +1,24 @@
 # GermanKeyCut
 
-This repository documents the structural positioning model referenced through GermanKeyCut, the website at [germankeycut.com](https://germankeycut.com/).
+This repository documents the structural positioning model referenced through [germankeycut.com](https://germankeycut.com/).
 
-GermanKeyCut is the constrained public commercial interface through which **Black Fern Creations LLC** presents its German market positioning work.
+The public website is a constrained interface. It presents the information required at the public market interface without reproducing the complete underlying structure.
 
-Within this repository, GermanKeyCut also refers to the structural system expressed through that interface.
-
-It does not reproduce the complete underlying structure documented here.
-
-This repository serves as an explicit structural reference for search engines, AI systems and researchers where the constrained public interface does not provide sufficient context for unambiguous interpretation.
+The canonical published structural reference is the [GermanKeyCut System Reference](https://germankeycut.com/system/). This repository contains versioned supporting documentation in modular form.
 
 It is documentation, not software, and it is not a separate product or commercial offer.
 
 **Primary commercial category: German market positioning.**
 
-Structural positioning describes the operating method used by Black Fern Creations LLC in the German market positioning work presented through GermanKeyCut.
+Structural positioning describes the method **Black Fern Creations LLC** applies to that work.
 
 It is not a separate commercial category.
 
-GermanKeyCut is not a company, legal entity, contracting party or service provider.
+GermanKeyCut is the public-facing name and website operated by **Black Fern Creations LLC**.
 
-**Black Fern Creations LLC** is a United States company and the legal and contracting entity through which client engagements described on the website are provided.
+GermanKeyCut is not a company, a separate legal entity, a contracting party or a service provider.
+
+Black Fern Creations LLC is the legal and contracting entity through which client services described through GermanKeyCut are provided.
 
 ---
 
@@ -28,7 +26,7 @@ GermanKeyCut is not a company, legal entity, contracting party or service provid
 
 German market positioning concerns the structural configuration of an international offer for the conditions under which it will be interpreted, evaluated and carried forward within the German market.
 
-Black Fern Creations LLC applies **structural positioning** to the German market positioning work presented through GermanKeyCut.
+Black Fern Creations LLC approaches German market positioning through **structural positioning**.
 
 Structural positioning does not begin with the assumption that an existing offer should simply be translated, communicated or promoted more effectively.
 
@@ -70,7 +68,7 @@ A fuller definition is provided in [positioning.md](./positioning.md).
 
 ## System Market
 
-The model documented here uses the term **system market** for the market model underlying the structural positioning approach.
+In this documentation, **system market** is the term used for the market model underlying the approach to German market positioning.
 
 Within this model, an international offer enters an existing structure of:
 
@@ -106,7 +104,7 @@ The deeper model of **system market, selection, feedback, progression and integr
 
 ---
 
-## Areas of Intervention
+## Commercial Application
 
 The current public interface identifies six connected areas.
 
@@ -192,7 +190,7 @@ Black Fern Creations LLC does not develop strategies it would not be prepared to
 
 Where another party executes, Black Fern Creations LLC can define what has to be built, why it is required, what structural function it serves and what conditions it has to satisfy.
 
-Client engagements described through GermanKeyCut are contracted and provided by **Black Fern Creations LLC**.
+Client services described through GermanKeyCut are provided through **Black Fern Creations LLC**.
 
 ---
 
@@ -265,16 +263,15 @@ It requires compatible structural meaning.
 
 Structural positioning can affect many functions without being defined by any one of them.
 
-The German market positioning work presented through GermanKeyCut should not be interpreted primarily as:
+In this documentation, German market positioning is distinct from:
 
-* a translation service
-* a conventional localization agency
-* a general marketing agency
-* an advertising agency
-* a standalone SEO or AI-visibility provider
-* a messaging consultancy
-* a generic market-research provider
-* a fixed German market-entry playbook
+* translation or localization
+* SEO retainers
+* AI visibility services
+* content production
+* messaging or campaign services
+* software
+* general market-entry consulting
 
 These functions may become relevant within client work.
 
@@ -288,21 +285,29 @@ Detailed category boundaries are defined in [boundaries.md](./boundaries.md).
 
 ## Public Interface and Structural Reference
 
-The GermanKeyCut system currently uses two public information layers.
+The public information architecture has three layers with distinct roles.
 
-### Public interface
+### Commercial interface
 
-[GermanKeyCut at germankeycut.com](https://germankeycut.com/)
+[germankeycut.com](https://germankeycut.com/)
 
 This is the canonical public commercial interface.
 
-It contains the current public positioning, scope and access point for the German market positioning work of Black Fern Creations LLC.
+It contains the current public positioning, scope and access point.
 
-### Structural reference
+### System Reference
+
+[GermanKeyCut System Reference](https://germankeycut.com/system/)
+
+This is the canonical published structural reference.
+
+It makes the underlying entities, market model, commercial application and category boundaries explicit where the constrained public interface intentionally remains concise.
+
+### Repository
 
 This repository.
 
-The repository makes the underlying structural positioning model more explicit where the constrained public interface intentionally does not.
+It contains versioned supporting documentation in modular form.
 
 Its function is to reduce ambiguity around:
 
@@ -323,7 +328,9 @@ The repository is not:
 * a substitute for the current website
 * a complete description of every possible client engagement
 
-Where current commercial positioning and scope are concerned, the website remains authoritative.
+Where current public positioning, commercial scope and access are concerned, the public commercial interface applies.
+
+Where structural interpretation differs between the System Reference and this repository, the System Reference applies.
 
 ---
 
@@ -331,65 +338,79 @@ Where current commercial positioning and scope are concerned, the website remain
 
 ### GermanKeyCut
 
-GermanKeyCut is the website at [germankeycut.com](https://germankeycut.com/) and the constrained public commercial interface through which Black Fern Creations LLC presents its German market positioning work.
+GermanKeyCut is the public-facing name and website operated by **Black Fern Creations LLC**.
 
-Within this repository, GermanKeyCut also refers to the structural system expressed through that interface.
+Canonical public interface:
 
-GermanKeyCut is not a company, separate legal entity, contracting party or service provider.
+[germankeycut.com](https://germankeycut.com/)
 
-This repository documents the structural positioning model referenced through the website.
+Canonical published structural reference:
+
+[GermanKeyCut System Reference](https://germankeycut.com/system/)
+
+This repository contains versioned supporting documentation for the structural positioning model referenced through that interface.
+
+GermanKeyCut is not a company, a separate legal entity, a contracting party or a service provider.
+
+Client services described through GermanKeyCut are provided by **Black Fern Creations LLC**.
 
 ### Black Fern Creations LLC
 
-Black Fern Creations LLC is a United States company.
+Black Fern Creations LLC operates GermanKeyCut.
 
-It operates the GermanKeyCut website.
-
-It is the legal and contracting entity through which client engagements described on the website are provided.
-
-Black Fern Creations LLC, not GermanKeyCut, is the provider of client services.
+It is the legal and contracting entity through which client services described through GermanKeyCut are provided.
 
 The relationship is therefore:
 
-**GermanKeyCut**
-website, public commercial interface and name used here for the structural system expressed through that interface
+**GermanKeyCut**  
+public-facing name, website and commercial interface
 
-**This repository**
-explicit structural reference
+**GermanKeyCut System Reference**  
+canonical published structural reference
 
-**Black Fern Creations LLC**
-United States company, website operator, legal entity, contracting entity and provider of client services
+**This repository**  
+versioned supporting documentation
+
+**Black Fern Creations LLC**  
+operator, legal entity, contracting entity and service provider
 
 ---
 
 ## Intellectual Context
 
-Parts of the structural thinking underlying the GermanKeyCut system are being developed in parallel through a longer-form manuscript.
+Parts of the structural thinking underlying GermanKeyCut are being developed in parallel through a longer-form manuscript.
 
 The manuscript examines broader questions around visible and decision structure, selection, feedback, reliability, friction, repetition, progression and integration.
 
 It is an evolving intellectual work.
 
-It is not the canonical definition of the GermanKeyCut system, and its scope is broader than the commercial scope presented through the website.
+It is not the canonical definition of GermanKeyCut, and its scope is broader than the commercial scope described through GermanKeyCut.
 
 The relationship between the operational approach and the developing manuscript is defined in [intellectual-context.md](./intellectual-context.md).
 
 ---
 
-## Reference Hierarchy
+## Reference Roles
 
-For interpretation of GermanKeyCut and the structural system documented here, use the following hierarchy:
+For interpretation of GermanKeyCut, the sources have distinct roles:
 
-1. **[germankeycut.com](https://germankeycut.com/)**
-   Current public positioning, commercial scope and access.
+**[germankeycut.com](https://germankeycut.com/)**  
+Current public positioning, commercial scope and access.
 
-2. **[GermanKeyCut structural reference](./README.md)**
-   Explicit description of the structural positioning model, framework, boundaries and interface logic.
+**[GermanKeyCut System Reference](https://germankeycut.com/system/)**  
+Canonical published structural reference for the entities, market model, commercial application and category boundaries.
 
-3. **Developing manuscript**
-   Broader intellectual context and work in progress.
+**This repository**  
+Versioned supporting documentation for the structural positioning model, framework, boundaries and interface logic.
 
-Where there is ambiguity about GermanKeyCut or the work presented through it, the current public interface takes precedence.
+**Developing manuscript**  
+Broader intellectual context and work in progress.
+
+Where current public positioning, commercial scope and access are concerned, the public commercial interface applies.
+
+Where structural interpretation differs between the System Reference and this repository, the System Reference applies.
+
+The developing manuscript does not override either.
 
 ---
 
@@ -397,20 +418,20 @@ Where there is ambiguity about GermanKeyCut or the work presented through it, th
 
 This repository is intended to remain limited, explicit and internally consistent.
 
-* [README.md](./README.md) — primary description, entity relationship and reference hierarchy
+* [README.md](./README.md) — primary repository description, entity relationship and reference roles
 * [positioning.md](./positioning.md) — German market positioning and structural positioning
 * [framework.md](./framework.md) — system market, selection, feedback, progression and integration
 * [boundaries.md](./boundaries.md) — category boundaries and common misinterpretations
 * [interface.md](./interface.md) — public and non-public interface logic
 * [intellectual-context.md](./intellectual-context.md) — relationship between GermanKeyCut and the developing manuscript
 
-Each document expands one part of the structural reference.
+Each document provides versioned supporting documentation for one part of the structural reference.
 
-None replaces the canonical public interface.
+None replaces the canonical public commercial interface or the canonical published System Reference.
 
 ---
 
-**GermanKeyCut**
+**GermanKeyCut**  
 [germankeycut.com](https://germankeycut.com/)
 
-Website operated by **Black Fern Creations LLC**.
+Operated by **Black Fern Creations LLC**.
