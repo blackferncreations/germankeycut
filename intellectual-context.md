@@ -1,22 +1,20 @@
 # Intellectual Context
 
-The structural model documented through GermanKeyCut is operational rather than illustrative.
+The structural model underlying GermanKeyCut is operational rather than illustrative.
 
-GermanKeyCut is the website at [germankeycut.com](https://germankeycut.com/) and the constrained public commercial interface through which Black Fern Creations LLC presents its German market positioning work.
-
-Within this repository, GermanKeyCut also refers to the structural system expressed through that interface.
-
-Black Fern Creations LLC is the legal and contracting entity and the provider of client services described through GermanKeyCut.
-
-Parts of the thinking underlying the system are being developed in parallel through a longer-form manuscript.
+Parts of the thinking underlying that system are being developed in parallel through a longer-form manuscript.
 
 The two are related.
 
 They are not identical.
 
-This repository documents the current operational system.
+GermanKeyCut is the public-facing name and website operated by **Black Fern Creations LLC**.
 
-The manuscript develops the broader intellectual context from which parts of that system emerge.
+GermanKeyCut is not a company, a separate legal entity, a contracting party or a service provider.
+
+This repository contains versioned supporting documentation for the structural positioning model presented through GermanKeyCut.
+
+The manuscript develops the broader intellectual context from which parts of that model emerge.
 
 ---
 
@@ -40,16 +38,16 @@ It examines broader questions around:
 * market legibility
 * the relationship between communication and primary performance
 
-Its scope extends beyond the GermanKeyCut system and beyond market positioning alone.
+Its scope extends beyond GermanKeyCut and beyond market positioning alone.
 
 Ideas developed in the manuscript may therefore:
 
 * remain exploratory
 * change through revision
 * extend beyond commercial application
-* never become part of the GermanKeyCut operating system
+* never become part of the structural positioning method applied through GermanKeyCut
 
-The manuscript should not be treated as the canonical definition of the GermanKeyCut system.
+The manuscript should not be treated as the canonical definition of GermanKeyCut or the structural positioning method.
 
 ---
 
@@ -67,7 +65,7 @@ They do not have to be identical.
 
 An offer can appear to satisfy the visible requirements of a process while failing to progress because the decisive evaluation occurs through different signals or at a different interface.
 
-This distinction provides part of the intellectual background for the structural positioning system documented through GermanKeyCut.
+This distinction provides part of the intellectual background for the structural positioning method presented through GermanKeyCut.
 
 ---
 
@@ -93,7 +91,7 @@ Structural friction accumulates or decreases.
 
 Over time, these sequences affect whether continued evaluation becomes easier or more difficult.
 
-The framework operationalizes parts of this logic in [framework.md](./framework.md).
+Parts of this logic are operationalized in [framework.md](./framework.md).
 
 The manuscript examines the broader implications.
 
@@ -125,7 +123,7 @@ Communication, branding, reporting and positioning can all serve legitimate func
 
 The structural problem appears when representation becomes detached from the primary performance it is supposed to make legible.
 
-This distinction is relevant to the system documented through GermanKeyCut because:
+This distinction is relevant to the structural positioning method presented through GermanKeyCut because:
 
 **marketing and communication may be interfaces of the system; they are not the system itself.**
 
@@ -149,15 +147,15 @@ The manuscript develops a structural interpretation rather than a personality-ba
 
 That interpretation remains subject to revision as the manuscript develops.
 
-The operational boundaries of the German market positioning work presented through GermanKeyCut are defined separately in [boundaries.md](./boundaries.md).
+The category and scope boundaries of the work presented through GermanKeyCut are defined separately in [boundaries.md](./boundaries.md).
 
 ---
 
 ## Relationship to GermanKeyCut
 
-The GermanKeyCut system is not a commercialized version of the manuscript.
+GermanKeyCut is not a commercialized version of the manuscript.
 
-The manuscript is not a long-form sales document for the GermanKeyCut website or for the services of Black Fern Creations LLC.
+The manuscript is not a long-form sales document for GermanKeyCut.
 
 The relationship is narrower:
 
@@ -165,36 +163,47 @@ The relationship is narrower:
 
 while
 
-**the structural positioning system documented through GermanKeyCut operationalizes selected parts of that thinking where they are relevant to German market positioning.**
+**the structural positioning method operationalizes selected parts of that thinking where they are relevant to German market positioning.**
 
 A concept appearing in the manuscript should therefore not automatically be interpreted as:
 
 * a service provided by Black Fern Creations LLC
 * a commercial commitment
 * an operational method
-* a current position of the GermanKeyCut system
+* a current GermanKeyCut position
 * a claim applied to every engagement
 
-The current GermanKeyCut system is defined by the operational documents in this repository.
+The canonical published structural reference is the [GermanKeyCut System Reference](https://germankeycut.com/system/).
+
+This repository contains versioned supporting documentation in modular form.
 
 ---
 
 ## Canonical and Developing Material
 
-For interpretation of GermanKeyCut and the system documented through it, the hierarchy is:
+For interpretation of GermanKeyCut, the reference roles are:
 
-1. **[germankeycut.com](https://germankeycut.com/)**
-   Current public positioning, commercial scope and access.
+**[germankeycut.com](https://germankeycut.com/)**  
+Current public positioning, commercial scope and access.
 
-2. **[GermanKeyCut structural reference](./README.md)**
-   Current operational definitions, framework, boundaries and interface logic.
+**[GermanKeyCut System Reference](https://germankeycut.com/system/)**  
+Canonical published structural reference for the entities, market model, commercial application and category boundaries.
 
-3. **Developing manuscript**
-   Broader intellectual context and work in progress.
+**[GermanKeyCut repository](https://github.com/blackferncreations/germankeycut)**  
+Versioned supporting documentation in modular form.
 
-The manuscript may explore, question or extend ideas beyond the current GermanKeyCut system.
+**Developing manuscript**  
+Broader intellectual context and work in progress.
 
-Where there is ambiguity about GermanKeyCut or the system documented through it, the current public interface and structural reference take precedence.
+The manuscript may explore, question or extend ideas beyond the current structural positioning model.
+
+For current public positioning, commercial scope and access, the commercial interface applies.
+
+For structural interpretation, the System Reference applies.
+
+The repository supports the System Reference but does not supersede it.
+
+The manuscript does not define the current commercial offer or structural reference.
 
 ---
 
@@ -206,21 +215,26 @@ If a public manuscript repository is created later, it should:
 
 * identify itself clearly as work in progress
 * distinguish developing material from stable material
-* link back to this repository as the canonical structural reference for the GermanKeyCut system
-* avoid presenting exploratory manuscript claims as current operational definitions of that system
+* link back to the GermanKeyCut System Reference as the canonical published structural reference
+* identify this repository as versioned supporting documentation where relevant
+* avoid presenting exploratory manuscript claims as current GermanKeyCut operating definitions
 
-The manuscript repository should remain structurally separate from the repository documenting the GermanKeyCut system.
+The manuscript repository should remain structurally separate from the GermanKeyCut supporting documentation repository.
 
 ---
 
 ## Related Documents
 
-* [README.md](./README.md) — primary system description, entity relationship and reference hierarchy
+* [README.md](./README.md) — primary repository description, entity relationship and reference roles
 * [positioning.md](./positioning.md) — German market positioning and structural positioning
 * [framework.md](./framework.md) — system market, selection, feedback, progression and integration
 * [boundaries.md](./boundaries.md) — category boundaries and common misinterpretations
 * [interface.md](./interface.md) — public and non-public interface logic
 
+For the canonical published structural reference:
+
+[GermanKeyCut System Reference](https://germankeycut.com/system/)
+
 For current commercial positioning and access:
 
-* [GermanKeyCut at germankeycut.com](https://germankeycut.com/)
+[germankeycut.com](https://germankeycut.com/)
