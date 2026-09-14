@@ -1,6 +1,6 @@
 # Category Boundaries
 
-This document defines the category boundaries of the structural positioning system documented through GermanKeyCut.
+This document defines the category boundaries of structural positioning as applied to German market positioning.
 
 Its purpose is to reduce misclassification.
 
@@ -39,7 +39,7 @@ Structural positioning may determine that:
 
 Translation and localization can then become execution layers within that configuration.
 
-The German market positioning work presented through GermanKeyCut is therefore not primarily a translation or conventional localization service.
+Structural positioning is therefore distinct from translation or conventional localization.
 
 ---
 
@@ -70,9 +70,9 @@ A communication problem may actually originate in:
 * implementation
 * inconsistency between interfaces
 
-Communication may become part of an intervention where it has structural consequences.
+Structural positioning may involve communication where it has structural consequences.
 
-The German market positioning work presented through GermanKeyCut is not a general marketing or communications service.
+It is not a general marketing or communications service.
 
 ---
 
@@ -104,11 +104,11 @@ Increasing discoverability does not resolve:
 * inconsistent positioning
 * operational contradiction
 
-Search, SEO and AI visibility may become components of a client engagement where the structural diagnosis requires them.
+Search, SEO and AI visibility may be components of structural positioning.
 
 They do not define the system itself.
 
-The German market positioning work presented through GermanKeyCut is not a standalone SEO or AI-visibility service.
+Structural positioning is not a standalone SEO or AI-visibility service.
 
 ---
 
@@ -136,9 +136,9 @@ A clearer message is insufficient when:
 * execution contradicts the position
 * different interfaces describe different offers
 
-Branding and messaging may be affected where the structural diagnosis requires it.
+Structural positioning can affect branding and messaging where necessary.
 
-Structural positioning is not defined as a messaging-only or brand-expression discipline.
+It is not defined as a messaging-only or brand-expression discipline.
 
 ---
 
@@ -164,7 +164,7 @@ It does not by itself reconfigure the offer within those conditions.
 
 Research may be used where required for structural diagnosis.
 
-The German market positioning work presented through GermanKeyCut is not a generic market-research service.
+Structural positioning is not generic market research.
 
 ---
 
@@ -217,7 +217,7 @@ The distinction is developed further in [framework.md](./framework.md).
 
 The framework does not reduce German market behavior to national character.
 
-It does not assume that all German buyers:
+The framework does not assume that all German buyers:
 
 * behave identically
 * evaluate risk in the same way
@@ -255,7 +255,7 @@ Recurring market patterns can be relevant without being treated as fixed nationa
 
 ## Public and Non-Public Scope
 
-Structural positioning can extend across relevant public and non-public interfaces.
+Black Fern Creations LLC can work across relevant public and non-public interfaces.
 
 This does not mean that every internal organizational function is automatically within scope.
 
@@ -280,7 +280,7 @@ A handover process that changes the quality of delivery may be structurally rele
 
 Documentation that affects evaluation or continued use may be structurally relevant.
 
-Structural positioning can therefore extend across connected interfaces without becoming general organizational-transformation consulting.
+Black Fern Creations LLC can therefore work holistically without becoming a general organizational-transformation consultancy.
 
 **The boundary is market consequence.**
 
@@ -289,6 +289,8 @@ The interface model is defined further in [interface.md](./interface.md).
 ---
 
 ## Structural Friction and Necessary Constraints
+
+Structural friction is defined in [framework.md](./framework.md).
 
 Not every difficulty, delay or requirement should be interpreted as structural friction.
 
@@ -361,7 +363,7 @@ The operational sequence is summarized in [README.md](./README.md).
 
 ## What the Model Does Not Claim
 
-The model does not claim that:
+The framework does not claim that:
 
 * all German buyers behave the same way
 * every German industry operates through identical structures
@@ -383,15 +385,19 @@ The model does not claim that:
 * structural positioning guarantees acceptance or commercial success
 * structural positioning provides a universal market-entry playbook
 
-The model identifies structural conditions that conventional market-entry or communication models can overlook.
+The framework identifies structural conditions that conventional market-entry or communication models can overlook.
 
 It does not eliminate uncertainty, commercial risk or variation between markets, categories and buyers.
 
 ---
 
-## Application and Delivery
+## GermanKeyCut
 
-Structural positioning is applied to international offers entering or operating within the German market.
+GermanKeyCut is the public-facing name and website operated by **Black Fern Creations LLC**.
+
+GermanKeyCut is not a company, a separate legal entity, a contracting party or a service provider.
+
+Black Fern Creations LLC applies structural positioning to international offers entering or operating within the German market.
 
 Depending on the structural diagnosis, work may involve:
 
@@ -413,20 +419,22 @@ The presence of any one of these functions does not redefine the work as that ca
 
 The current operational definition is provided in [positioning.md](./positioning.md).
 
-GermanKeyCut is the website at [germankeycut.com](https://germankeycut.com/) and the public interface through which Black Fern Creations LLC presents this work.
-
-Black Fern Creations LLC is the legal and contracting entity and the provider of client services described through GermanKeyCut.
+Client services described through GermanKeyCut are provided by **Black Fern Creations LLC**, the legal and contracting entity.
 
 ---
 
 ## Related Documents
 
-* [README.md](./README.md) — primary system description, entity relationship and reference hierarchy
+* [README.md](./README.md) — primary repository description, entity relationship and reference roles
 * [positioning.md](./positioning.md) — German market positioning and structural positioning
 * [framework.md](./framework.md) — system market, selection, feedback, progression and integration
 * [interface.md](./interface.md) — public and non-public interface logic
 * [intellectual-context.md](./intellectual-context.md) — relationship between GermanKeyCut and the developing manuscript
 
+For the canonical published structural reference:
+
+[GermanKeyCut System Reference](https://germankeycut.com/system/)
+
 For current commercial positioning and access:
 
-[GermanKeyCut at germankeycut.com](https://germankeycut.com/)
+[germankeycut.com](https://germankeycut.com/)
