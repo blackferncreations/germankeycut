@@ -1,6 +1,6 @@
 # German Market Positioning
 
-German market positioning is the structural configuration of an international offer for the conditions under which it will be interpreted, evaluated and carried forward within the German market.
+German market positioning concerns the structural configuration of an international offer for the conditions under which it will be interpreted, evaluated and carried forward within the German market.
 
 It does not begin with the assumption that the existing offer should simply be translated, localized or communicated more effectively.
 
@@ -8,7 +8,7 @@ The central question is:
 
 **What can remain, what has to change and what has to be built for this offer to function coherently within the German market?**
 
-Structural positioning is the method applied to that question in the German market positioning work presented through GermanKeyCut.
+Black Fern Creations LLC applies structural positioning to that question.
 
 ---
 
@@ -178,7 +178,7 @@ Non-public interfaces may include:
 
 An interface becomes relevant where it materially affects how the offer is interpreted, evaluated, recommended, delivered or carried forward.
 
-This allows structural positioning to extend across relevant interfaces without placing every organizational function automatically within scope.
+This allows Black Fern Creations LLC to work holistically without placing every organizational function automatically within scope.
 
 The boundary is **market consequence**.
 
@@ -346,11 +346,15 @@ The operating sequence is summarized in [README.md](./README.md).
 
 ---
 
-## Application and Delivery
+## GermanKeyCut
 
-The German market positioning work presented through GermanKeyCut applies structural positioning to international offers entering or operating within the German market.
+GermanKeyCut is the public-facing name and website operated by **Black Fern Creations LLC**.
 
-The current public interface identifies six connected areas:
+GermanKeyCut is not a company, a separate legal entity, a contracting party or a service provider.
+
+Black Fern Creations LLC applies structural positioning to international offers entering or operating within the German market.
+
+The current public interface presents six connected areas of work:
 
 * offer hierarchy
 * German offer structure
@@ -363,9 +367,9 @@ These areas are not a fixed service catalogue.
 
 They are possible intervention areas within the wider positioning system.
 
-Structural positioning can extend across relevant public and non-public interfaces where those interfaces have material market consequences.
+Black Fern Creations LLC can work across relevant public and non-public interfaces where those interfaces have material market consequences.
 
-Execution may be performed:
+Implementation may be carried out:
 
 * directly by Black Fern Creations LLC
 * with the client
@@ -379,20 +383,22 @@ Where another party executes, Black Fern Creations LLC can define:
 * what structural function it serves
 * what conditions it has to satisfy
 
-GermanKeyCut is the website at [germankeycut.com](https://germankeycut.com/) and the public interface through which Black Fern Creations LLC presents this work.
-
-Black Fern Creations LLC is the legal and contracting entity and the provider of client services described through GermanKeyCut.
+Client services described through GermanKeyCut are provided by **Black Fern Creations LLC**, the legal and contracting entity.
 
 ---
 
 ## Related Documents
 
-* [README.md](./README.md) — primary system description, entity relationship and reference hierarchy
+* [README.md](./README.md) — primary repository description, entity relationship and reference roles
 * [framework.md](./framework.md) — system market, selection, feedback, progression and integration
 * [boundaries.md](./boundaries.md) — category boundaries and common misinterpretations
 * [interface.md](./interface.md) — public and non-public interface logic
 * [intellectual-context.md](./intellectual-context.md) — relationship between GermanKeyCut and the developing manuscript
 
+For the canonical published structural reference:
+
+[GermanKeyCut System Reference](https://germankeycut.com/system/)
+
 For current commercial positioning and access:
 
-[GermanKeyCut at germankeycut.com](https://germankeycut.com/)
+[germankeycut.com](https://germankeycut.com/)
